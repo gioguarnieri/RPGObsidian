@@ -1,6 +1,6 @@
-Bagé é solitário em tupi
+[[Bagé]] é solitário em tupi
 
-Um cientista imortal, que busca entender a própria imortalidade. Foi o único Ivipora a sair da cidade central, seu paradeiro é desconhecido, mas há rumores de que viajou para o norte. Era conhecido como uma pessoa caridosa, atenciosa que sempre buscou a ajudar as pessoas ao seu redor. Um médico nato, que comungava com os espíritos e oferecia uma cura rápida.
+Um cientista imortal, que busca entender a própria imortalidade. Foi o único [[Ivipora]] a sair da cidade central, seu paradeiro é desconhecido, mas há rumores de que viajou para o norte. Era conhecido como uma pessoa caridosa, atenciosa que sempre buscou a ajudar as pessoas ao seu redor. Um médico nato, que comungava com os espíritos e oferecia uma cura rápida.
 
 A única certeza é que está vivo, já que se tivesse morrido teria voltado à cidade central como um espírito para renascer novamente.
 
@@ -9,8 +9,8 @@ A única certeza é que está vivo, já que se tivesse morrido teria voltado à 
 ### **A Busca por Significado**
 
 - Bagé, como um existencialista, acredita que a vida não tem um significado intrínseco, mas que cada indivíduo deve criar seu próprio propósito através de suas escolhas e ações.
-- Ele sempre buscou dar sentido à sua existência através de suas pesquisas, sua magia e sua relação com Ánga e os Iviporas.
-- Para ele, a imortalidade e o ciclo de renascimento dos Iviporas são uma oportunidade de explorar infinitas possibilidades e criar um legado duradouro.
+- Ele sempre buscou dar sentido à sua existência através de suas pesquisas, sua magia e sua relação com [[Ánga]] e os [[Iviporas]].
+- Para ele, a imortalidade e o ciclo de renascimento dos [[Iviporas]] são uma oportunidade de explorar infinitas possibilidades e criar um legado duradouro.
 
 ### **A Relação com os Jogadores**
 

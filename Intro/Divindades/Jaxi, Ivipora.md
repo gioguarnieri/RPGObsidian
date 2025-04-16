@@ -13,4 +13,6 @@ A gana infinita de saber tudo entre a vida e a morte.
 Uma ânsia sem fim de obter sem nunca ter o tédio de possuir.
 
 Mórbido, eu diria.
+
+[[Jaxi]], [[Ivipora]]
 ![[Jaxi.jpg]]

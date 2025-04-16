@@ -6,4 +6,6 @@ Falando nisso, viste como a filha de dona Firmina é esperta? Ouvi dizer que ela
 
 Pois sim, falemos do que queres. Diga-me por que vieste? — Se ajustou na cadeira, numa posição altiva. Seu cabelo, ou o que sobra dele, parece abaixar quase que sozinho, e a barba malfeita que cobria seu rosto agora passa despercebida. — Um vinho, por favor, e vossa senhoria? — diz ele, mirando a sua companhia.
 
+[[Olegário]], [[Humano]]
+
 ![[Olegario.jpg]]

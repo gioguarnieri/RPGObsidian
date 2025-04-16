@@ -1,16 +1,16 @@
 ![[Mulher misteriosa.jpg]]
 
-### **Araeni: A Filha que Cumpre uma Promessa**
+### **[[Araeni]]: A Filha que Cumpre uma Promessa**
 
 ### **A Morte da Mãe e a Perda de Propósito**
 
-- A morte da mãe de Araeni foi um evento traumático que marcou o fim de sua infância e o início de uma vida sem sentido aparente.
+- A morte da mãe de [[Araeni]] foi um evento traumático que marcou o fim de sua infância e o início de uma vida sem sentido aparente.
 - Ela sempre foi próxima da mãe, que era sua âncora emocional e a única pessoa que a entendia verdadeiramente. Com sua morte, Araeni perdeu não apenas uma figura materna, mas também a única conexão genuína que tinha com o mundo.
 - Desde então, ela passou a ver a vida como algo vazio e sem propósito, vivendo no piloto automático e sem se importar com o futuro.
 
 ### **O Pedido da Mãe**
 
-- Antes de morrer, a mãe de Araeni fez um último pedido: que ela ajudasse Bagé a encontrar alguém de sua antiga região.
+- Antes de morrer, a mãe de Araeni fez um último pedido: que ela ajudasse [[Bagé]] a encontrar alguém de sua antiga região.
 - Esse pedido é o único fio que ancora Araeni ao mundo, uma promessa que ela se sente obrigada a cumprir, mesmo que não tenha mais um propósito pessoal.
 - Para Araeni, ajudar Bagé não é uma questão de amor ou lealdade, mas sim de honrar a memória da mãe e cumprir uma dívida emocional.
 
@@ -23,7 +23,7 @@
 
 ## Se os jogadores não ajudarem Bagé
 
-- - Desde criança, Araeni ouvia a voz de Ánga em sua cabeça, uma presença constante que ela nunca conseguiu entender ou aceitar.
+- - Desde criança, Araeni ouvia a voz de [[Ánga]] em sua cabeça, uma presença constante que ela nunca conseguiu entender ou aceitar.
     - Ela via a voz como uma intrusão, uma violação de sua privacidade e autonomia, e desenvolveu um profundo ressentimento em relação à deusa.
     - Agora, como avatar de Ánga, ela se sente ainda mais presa e punida, tendo que dividir seu corpo e sua mente com a divindade que sempre odiou.
 - **A Relação com Bagé**
