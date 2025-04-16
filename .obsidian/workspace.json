@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro/Cidades/Dustbrook.md",
+                "file": "Intro/A tragédia de Bagé.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dustbrook"
+              "title": "A tragédia de Bagé"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 278.5
   },
   "right": {
     "id": "bc3e2ae148af059b",
@@ -178,8 +178,19 @@
   },
   "active": "6e9a781862916524",
   "lastOpenFiles": [
+    "Intro/Jogadores/Sauras.md",
+    "Intro/Jogadores/Poy poy.md",
+    "Intro/Jogadores/Jorran.md",
+    "Intro/Jogadores/Jareth.md",
+    "Intro/Jogadores/Grom.md",
+    "Intro/Jogadores/Alberich.md",
+    "Intro/Itens mágicos/Coração gema.md",
+    "Intro/Divindades/Kuara Pyatã.md",
+    "Intro/Divindades/Angá.md",
     "Intro/Cidades/Lahn.md",
     "Intro/Cidades/Dustbrook.md",
+    "Intro/Cidades/Cidade de Angá.md",
+    "Imagens/tri 2-1.webp",
     "Imagens/Dustbrook.png",
     "Imagens/Lahn.png",
     "Intro/NPCs/Neru.md",
@@ -197,23 +208,13 @@
     "Intro/NPCs/Mulher misteriosa.md",
     "Imagens/Neru 1.jpg",
     "Imagens/Jaxi 1.jpg",
-    "Intro/Itens mágicos/Coração gema.md",
     "Imagens/angá 1.jpg",
-    "Imagens/Silvinha.jpg",
-    "Intro/Divindades/Kuara Pyatã.md",
     "Intro/Anotações.md",
     "Intro/Itens mágicos",
     "Intro/Untitled.md",
-    "Intro/Cidades/Cidade de Angá.md",
-    "Intro/Jogadores/Sauras.md",
     "Intro/Cidades",
-    "Intro/Jogadores/Poy poy.md",
-    "Intro/Jogadores/Jorran.md",
     "Intro/NPCs/A criança.md",
     "Intro/NPCs",
-    "Intro/Jogadores/Jareth.md",
-    "Intro/Jogadores/Grom.md",
-    "Intro/Jogadores/Alberich.md",
     "Intro/A tragédia de Bagé.md",
     "Intro/Jogadores",
     "Intro/Primeira mesa.md",

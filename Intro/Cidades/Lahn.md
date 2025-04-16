@@ -11,3 +11,5 @@ As vestimentas típicas de Lahn são roupas que cobrem o corpo todo com uma más
 A cidade tem um formato circular, apresenta quatro entradas nos seus pontos cardeais. Lahn é povoada de fora pra dentro, onde sua densidade populacional cresce muito nas regiões mais externas e também mais pobres.
 
 A cidade é bonita, a falta de enfeite nos corpos se compensa nas casas. Tudo é muito adornado com arte se apresentando em cada esquina, em cada aspecto, até um pequeno bueiro é uma peça digna de admiração. Tudo é muito limpo, quase que magicamente, e as pessoas são simpáticas apesar de reservadas.
+
+[[Neru]]
