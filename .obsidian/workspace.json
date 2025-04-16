@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro/Jogadores/Sauras.md",
+                "file": "Intro/Cidades/Dustbrook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sauras"
+              "title": "Dustbrook"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "bc3e2ae148af059b",
@@ -178,27 +178,46 @@
   },
   "active": "6e9a781862916524",
   "lastOpenFiles": [
-    "Intro/Jogadores/Poy poy.md",
+    "Intro/Cidades/Lahn.md",
+    "Intro/Cidades/Dustbrook.md",
+    "Imagens/Dustbrook.png",
+    "Imagens/Lahn.png",
+    "Intro/NPCs/Neru.md",
+    "Intro/NPCs/Olegário, Humano.md",
+    "Intro/NPCs/Silvinha.md",
+    "Imagens/angá.jpg",
+    "Intro/NPCs/Brook.md",
+    "Imagens/Brook.jpg",
+    "Intro/NPCs/Cecía.md",
+    "Intro/NPCs/Ferg.md",
+    "Intro/NPCs/Jaxi, Ivipora.md",
+    "Intro/NPCs/Kang.md",
+    "Imagens/Kang.jpg",
+    "Imagens/Mapa maior.jpg",
+    "Intro/NPCs/Mulher misteriosa.md",
+    "Imagens/Neru 1.jpg",
+    "Imagens/Jaxi 1.jpg",
+    "Intro/Itens mágicos/Coração gema.md",
+    "Imagens/angá 1.jpg",
+    "Imagens/Silvinha.jpg",
+    "Intro/Divindades/Kuara Pyatã.md",
+    "Intro/Anotações.md",
+    "Intro/Itens mágicos",
+    "Intro/Untitled.md",
+    "Intro/Cidades/Cidade de Angá.md",
     "Intro/Jogadores/Sauras.md",
+    "Intro/Cidades",
+    "Intro/Jogadores/Poy poy.md",
     "Intro/Jogadores/Jorran.md",
+    "Intro/NPCs/A criança.md",
+    "Intro/NPCs",
     "Intro/Jogadores/Jareth.md",
     "Intro/Jogadores/Grom.md",
     "Intro/Jogadores/Alberich.md",
-    "Intro/Primeira mesa.md",
-    "Intro/Jogadores",
-    "Intro/Divindades/Olegário, Humano.md",
-    "Intro/Divindades/Neru.md",
-    "Intro/Divindades/Mulher misteriosa.md",
-    "Intro/Divindades/Jaxi, Ivipora.md",
-    "Intro/Divindades/Bagé, Ivipora.md",
-    "Intro/Divindades/Angá.md",
     "Intro/A tragédia de Bagé.md",
-    "Imagens/angá.jpg",
+    "Intro/Jogadores",
+    "Intro/Primeira mesa.md",
     "Imagens",
-    "Imagens/Jaxi.jpg",
-    "Imagens/Neru.jpg",
-    "Imagens/Mulher misteriosa.jpg",
-    "Imagens/Olegario.jpg",
     "Intro/Divindades",
     "Intro"
   ]

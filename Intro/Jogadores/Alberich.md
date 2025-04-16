@@ -1,0 +1,1 @@
+[[Alberich]] é um humano ladino, pouco carismático com ideias de robin hood.

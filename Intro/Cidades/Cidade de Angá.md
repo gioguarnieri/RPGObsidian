@@ -1,0 +1,1 @@
+Cidade central de [[Angá]].
