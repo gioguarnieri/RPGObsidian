@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quarta mesa.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quarta mesa"
+              "title": "README"
             }
           }
         ]
@@ -176,10 +176,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b20d66ff4710501e",
+  "active": "6e9a781862916524",
   "lastOpenFiles": [
-    "Primeira mesa.md",
+    "Intro/Cidades/Cidade de Angá.md",
+    "Intro/Cidades/Dustbrook.md",
+    "Intro/Cidades/Lahn.md",
+    "Intro/Divindades/Kuara Pyatã.md",
     "Quarta mesa.md",
+    "Primeira mesa.md",
     "Intro/A tragédia de Bagé.md",
     "Intro/Jogadores/Sauras.md",
     "Intro/Jogadores/Poy poy.md",
@@ -188,11 +192,7 @@
     "Intro/Jogadores/Grom.md",
     "Intro/Jogadores/Alberich.md",
     "Intro/Itens mágicos/Coração gema.md",
-    "Intro/Divindades/Kuara Pyatã.md",
     "Intro/Divindades/Angá.md",
-    "Intro/Cidades/Lahn.md",
-    "Intro/Cidades/Dustbrook.md",
-    "Intro/Cidades/Cidade de Angá.md",
     "Imagens/tri 2-1.webp",
     "Imagens/Dustbrook.png",
     "Imagens/Lahn.png",
