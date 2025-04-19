@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Intro/Divindades/Kuara Pyatã.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Kuara Pyatã"
             }
           }
         ]
@@ -176,12 +176,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e9a781862916524",
+  "active": "b20d66ff4710501e",
   "lastOpenFiles": [
+    "Intro/Divindades/Angá.md",
+    "Intro/Divindades/Kuara Pyatã.md",
+    "README.md",
     "Intro/Cidades/Cidade de Angá.md",
     "Intro/Cidades/Dustbrook.md",
     "Intro/Cidades/Lahn.md",
-    "Intro/Divindades/Kuara Pyatã.md",
     "Quarta mesa.md",
     "Primeira mesa.md",
     "Intro/A tragédia de Bagé.md",
@@ -192,7 +194,6 @@
     "Intro/Jogadores/Grom.md",
     "Intro/Jogadores/Alberich.md",
     "Intro/Itens mágicos/Coração gema.md",
-    "Intro/Divindades/Angá.md",
     "Imagens/tri 2-1.webp",
     "Imagens/Dustbrook.png",
     "Imagens/Lahn.png",
@@ -214,7 +215,6 @@
     "Imagens/angá 1.jpg",
     "Intro/Anotações.md",
     "Intro/Itens mágicos",
-    "Intro/Untitled.md",
     "Intro/Cidades",
     "Intro/NPCs",
     "Intro/Jogadores",
