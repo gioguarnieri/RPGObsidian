@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro/Divindades/Angá.md",
+                "file": "Intro/Itens mágicos/Coração gema.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Angá"
+              "title": "Coração gema"
             }
           }
         ]
@@ -178,14 +178,15 @@
   },
   "active": "6e9a781862916524",
   "lastOpenFiles": [
-    "Imagens/angá.webp",
-    "Intro/Divindades/Deuses Menores do Panteão.md",
     "Intro/Divindades/Angá.md",
+    "Intro/Itens mágicos/Coração gema.md",
+    "Intro/Divindades/Deuses Menores do Panteão.md",
+    "Intro/Divindades/Kuara Pyatã.md",
+    "Imagens/angá.webp",
     "Imagens/angá-1.webp",
     "Imagens/Angá arte.webp",
     "Imagens/Pytu.webp",
     "Imagens/Pytu",
-    "Intro/Divindades/Kuara Pyatã.md",
     "Imagens/Yvytu.webp",
     "Imagens/Yvytu",
     "Imagens/Tatendy.webp",
@@ -213,8 +214,6 @@
     "Intro/Jogadores/Jareth.md",
     "Intro/Jogadores/Grom.md",
     "Intro/Jogadores/Alberich.md",
-    "Intro/Itens mágicos/Coração gema.md",
-    "Imagens/tri 2-1.webp",
     "Intro/NPCs/Neru.md",
     "Intro/NPCs/Olegário, Humano.md",
     "Intro/NPCs/Silvinha.md",
