@@ -8,4 +8,4 @@ Pois sim, falemos do que queres. Diga-me por que vieste? — Se ajustou na cadei
 
 [[Olegário]], [[Humano]]
 
-![[Olegario.jpg]]
+![[Olegario.webp]]

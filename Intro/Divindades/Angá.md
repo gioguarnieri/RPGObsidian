@@ -12,6 +12,6 @@ E de seu corpo foram feitas as estrelas, os planetas, a terra em que pisamos, a 
 
 De sua alma, também, veio a magia, intrinsecamente conectada com os seres vivos, parte de todos, que tudo permeia. O véu que esconde segredos, junto da curiosidade que revela.
 
-![[angá.jpg]]
+![[angá.webp]]
 
-![[Angá arte.png]]
+![[Angá arte.webp]]

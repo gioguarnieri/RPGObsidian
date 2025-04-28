@@ -1,1 +1,1 @@
-![[Kang.jpg]]
+![[Kang.webp]]

@@ -1,4 +1,4 @@
-![[Lahn.png]]
+![[Lahn.webp]]
 
 A cidade de [[Lahn]] é uma incógnita. Para muitos, a cidade é a mais bonita e acolhedora, enquanto alguns recomendam nunca chegar perto.
 
@@ -6,7 +6,7 @@ Ali nascem os grandes artistas da região, os que compõem as poesias mais bonit
 
 As vestimentas típicas de Lahn são roupas que cobrem o corpo todo com uma máscara de madeira obrigatória tampando toda a face. Qualquer pequeno pedaço de pele que fique a mostra pode ser penalizado pela família real.
 
-![[Pessoa de Lahn.jpg]]
+![[Pessoa de Lahn.webp]]
 
 A cidade tem um formato circular, apresenta quatro entradas nos seus pontos cardeais. Lahn é povoada de fora pra dentro, onde sua densidade populacional cresce muito nas regiões mais externas e também mais pobres.
 

@@ -1,1 +1,1 @@
-![[Cecía.jpg]]
+![[Cecía.webp]]

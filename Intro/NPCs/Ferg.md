@@ -1,1 +1,1 @@
-![[Ferg.jpg]]
+![[Ferg.webp]]

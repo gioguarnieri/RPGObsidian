@@ -15,4 +15,4 @@ Uma ânsia sem fim de obter sem nunca ter o tédio de possuir.
 Mórbido, eu diria.
 
 [[Jaxi]], [[Ivipora]]
-![[Jaxi.jpg]]
+![[Jaxi.webp]]

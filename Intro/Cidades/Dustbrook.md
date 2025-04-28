@@ -1,2 +1,2 @@
 [[Dustbrook]] [[Brook]]
-![[Dustbrook.png]]
+![[Dustbrook.webp]]

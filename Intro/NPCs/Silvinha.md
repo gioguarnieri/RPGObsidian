@@ -1,1 +1,1 @@
-![[Silvinha.jpg]]
+![[Silvinha.webp]]

@@ -1,2 +1,2 @@
-![[Neru Mascarado.jpg]]
-![[Neru.jpg]]
+![[Neru Mascarado.webp]]
+![[Neru.webp]]

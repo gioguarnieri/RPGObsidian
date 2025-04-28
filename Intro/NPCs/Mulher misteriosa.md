@@ -1,4 +1,4 @@
-![[Mulher misteriosa.jpg]]
+![[Mulher misteriosa.webp]]
 
 ### **[[Araeni]]: A Filha que Cumpre uma Promessa**
 

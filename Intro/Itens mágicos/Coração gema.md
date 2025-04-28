@@ -1,1 +1,1 @@
-![[coração gema.png]]
+![[coração gema.webp]]

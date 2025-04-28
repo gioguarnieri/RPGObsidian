@@ -12,6 +12,10 @@ Construindo sobre a base de Angá e Kuara Pyatã como as divindades principais c
 - **Adoradores**: Aqueles passando por mudanças de vida, viajantes, mensageiros, parteiras
 - **Conexão Cultural**: Inspirada em Jacy, a divindade lunar Tupi-Guarani
 
+Sob um céu profundo salpicado de estrelas, Jacy, a deusa da Lua e das Transições, flutua suavemente sobre uma clareira iluminada por névoa prateada. Sua pele irradia uma luz prateada suave, pulsando como as fases da lua. Ela usa um adorno de cabeça delicado em forma de lua crescente, que brilha como prata líquida. Uma tigela de prata repousa em suas mãos, refletindo as estrelas acima. Uma coruja branca sobrevoa silenciosamente ao fundo. A atmosfera é serena e mística, com brisas leves agitando seu manto cintilante enquanto ela caminha entre portais etéreos que surgem no véu da noite.
+
+![[Jacy.webp]]
+
 ### Ibirá - Deus das Florestas e Crescimento
 - **Domínio**: Florestas, vida vegetal, crescimento, renovação, abrigo
 - **Aparência**: Uma figura alta com pele semelhante a casca de árvore, cabelo de folhas que muda com as estações
@@ -19,6 +23,10 @@ Construindo sobre a base de Angá e Kuara Pyatã como as divindades principais c
 - **Relacionamento**: Filho primogênito que cuida das plantas que cresceram do sacrifício de Angá
 - **Adoradores**: Agricultores, herbalistas, marceneiros, aqueles que buscam abrigo
 - **Conexão Cultural**: Nome derivado de "yvyrá" (árvore) em Guarani
+
+No coração de uma floresta vibrante e antiga, Ibirá, o deus das Florestas e do Crescimento, ergue-se majestosamente entre as árvores. Sua pele se assemelha à casca viva de um imenso tronco, rústica e sagrada, enquanto seu cabelo, feito de folhas verdes e douradas, dança ao ritmo de uma brisa suave. Ele empunha um cajado de madeira viva que pulsa com energia natural, e um colar de sementes pende de seu pescoço. Ao seu redor, pequenas mudas brotam do solo a cada passo que dá, renovando a floresta. A luz dourada do sol filtra-se pelas copas, criando um cenário de reverência e vida abundante.
+
+![[Ibirá.webp]]
 
 ### Itá - Deusa da Pedra e Permanência
 - **Domínio**: Montanhas, pedra, permanência, fundações, juramentos
@@ -28,14 +36,21 @@ Construindo sobre a base de Angá e Kuara Pyatã como as divindades principais c
 - **Adoradores**: Mineiros, pedreiros, guardiões de juramentos, historiadores
 - **Conexão Cultural**: Nome significa "pedra" em Tupi-Guarani
 
-### Paraná - Deus dos Rios e Passagem
+Em meio a montanhas colossais sob um céu cinzento e majestoso, Itá, a deusa da Pedra e da Permanência, ergue-se imponente sobre um platô de granito. Sua pele reluz como pedra polida, entremeada por veios e cristais cintilantes que captam a luz suave do entardecer. Ela carrega uma grande tábua de pedra gravada com símbolos antigos, e um círculo ininterrupto brilha discretamente em seu peito. Firme e inabalável, Itá permanece imóvel enquanto ventos frios sopram ao seu redor, como se o tempo se dobrasse à sua eterna presença.
+
+![[Itá.webp]]
+Em meio a montanhas colossais sob um céu cinzento e majestoso, Itá, a deusa da Pedra e da Permanência, ergue-se imponente sobre um platô de granito. Sua pele reluz como pedra polida, entremeada por veios e cristais cintilantes que captam a luz suave do entardecer. Ela carrega uma grande tábua de pedra gravada com símbolos antigos, e um círculo ininterrupto brilha discretamente em seu peito. Firme e inabalável, Itá permanece imóvel enquanto ventos frios sopram ao seu redor, como se o tempo se dobrasse à sua eterna presença.
+### **Yberá-Tá** - Deus dos Rios e Passagem
 - **Domínio**: Rios, viagem, comércio, jornada da vida, purificação
 - **Aparência**: Forma fluida com água constantemente fluindo como cabelo e vestes
 - **Símbolos**: Padrão de ondas, canoa, peixe
 - **Relacionamento**: Filho inquieto que constantemente busca reunir os pais divinos
 - **Adoradores**: Comerciantes, marinheiros, viajantes, aqueles que buscam purificação
-- **Conexão Cultural**: Nomeado após o Rio Paraná, importante nos territórios Guarani
+- **Conexão Cultural**: Associado à força dos rios que cortam territórios ancestrais, mas sem referência direta a nomes geográficos reais.
 
+![[Ybera-tá.webp]]
+
+Nas margens de um vasto rio que serpenteia através de uma floresta ancestral, Yberá-Tá, o deus dos Rios e da Passagem, ergue-se em meio à névoa matinal. Sua forma é fluida e translúcida, com cabelos e vestes feitos de água corrente que brilham sob a luz dourada do amanhecer. Uma canoa esculpida em madeira flutua suavemente ao seu lado, e pequenos peixes nadam em torno de seus pés, seguindo a corrente que ele próprio gera. Ele estende a mão como se convidasse para uma travessia, seu olhar inquieto voltado para o horizonte onde céu e água se fundem.
 ## Divindades Nascidas do Sacrifício de Angá
 
 ### Tataendy - Deusa do Fogo e Inspiração
@@ -46,6 +61,9 @@ Construindo sobre a base de Angá e Kuara Pyatã como as divindades principais c
 - **Adoradores**: Artistas, ferreiros, amantes apaixonados, revolucionários
 - **Conexão Cultural**: Nome combina "tatá" (fogo) e "endy" (chama) em Guarani
 
+
+
+No centro de uma caverna iluminada por reflexos dourados e vermelhos, Tataendy, a deusa do Fogo e da Inspiração, dança com uma energia vibrante. Sua pele brilha como brasas vivas, irradiando calor suave, enquanto seus cabelos fluem como chamas douradas e vermelhas que jamais se apagam. Em suas mãos, ela segura um vaso de barro rústico do qual uma chama eterna se ergue, moldando-se brevemente em formas de aves e flores. Faíscas saltam de seus movimentos no ar, e uma pena vermelha incandescente paira ao seu redor, símbolo da paixão e da transformação criativa que ela inspira.
 ### Yvytu - Deus do Vento e Liberdade
 - **Domínio**: Vento, respiração, liberdade, música, mensagens
 - **Aparência**: Figura quase transparente cuja forma muda como o ar em movimento, adornada com penas
@@ -61,62 +79,6 @@ Construindo sobre a base de Angá e Kuara Pyatã como as divindades principais c
 - **Origem**: Formado do vazio deixado pela partida de Angá
 - **Adoradores**: Estudiosos, espiões, sonhadores, observadores de estrelas
 - **Conexão Cultural**: Nome significa "noite" ou "escuridão" em Guarani
-
-## Divindades Associadas às Raças
-
-### Avaete - Patrono dos Humanos
-- **Domínio**: Habilidade, artesanato, adaptação, engenhosidade
-- **Aparência**: Figura humanoide com mãos extraordinariamente destras, usando ornamentos artesanais
-- **Símbolos**: Ferramentas de artesão, padrão tecido, mão aberta
-- **Origem**: Formado da destreza que Angá concentrou nos humanos
-- **Adoradores**: Artesãos, artistas, inventores
-- **Conexão Cultural**: Nome incorpora "ava" (pessoa) em Guarani
-
-### Tekove - Patrono dos Iviporas
-- **Domínio**: Imortalidade, sabedoria espiritual, conhecimento antigo
-- **Aparência**: Ser sem idade com pele translúcida mostrando uma alma luminosa dentro
-- **Símbolos**: Chama eterna, círculo ininterrupto, texto antigo
-- **Origem**: Personificação da alma imortal que Angá deu aos Iviporas
-- **Adoradores**: Iviporas, filósofos, aqueles que buscam longevidade
-- **Conexão Cultural**: Nome relacionado a "tekove" (vida/alma) em Guarani
-
-### Mbarete - Patrono dos Astures
-- **Domínio**: Força, resistência, resiliência, proteção
-- **Aparência**: Figura poderosa com pele semelhante a pedra, portando cicatrizes que brilham com luz interior
-- **Símbolos**: Escudo, montanha, mão cicatrizada
-- **Origem**: Manifestação da resiliência que Angá concentrou nos Astures
-- **Adoradores**: Astures, guerreiros, protetores, aqueles que suportam dificuldades
-- **Conexão Cultural**: Nome significa "força" ou "poder" em Guarani
-
-## Figuras Trapaceiras e Adversárias
-
-### Añang - Divindade Trapaceira
-- **Domínio**: Trapaça, caos, testando limites, perturbação necessária
-- **Aparência**: Forma constantemente mudando, frequentemente aparecendo como uma raposa ou macaco com olhos desiguais
-- **Símbolos**: Máscara, encruzilhada, nó
-- **Relacionamento**: Nem filho nem inimigo dos deuses principais, mas uma força independente
-- **Papel**: Testa mortais e deuses igualmente, traz caos necessário, ensina através de travessuras
-- **Conexão Cultural**: Inspirado em Añang, uma figura trapaceira em alguns mitos Tupi-Guarani
-
-### Mboiguasu - A Grande Serpente
-- **Domínio**: Caos primordial, destruição, renovação através da devastação
-- **Aparência**: Serpente enorme com escamas como obsidiana, olhos que refletem os medos de cada um
-- **Símbolos**: Serpente enrolada, círculo quebrado, eclipse
-- **Origem**: Formada da escuridão que existia antes da criação
-- **Papel**: Ameaça consumir a criação, representa o ciclo de destruição e renascimento
-- **Conexão Cultural**: Nome combina "mboi" (cobra) e "guasu" (grande) em Guarani
-
-## Implementando Essas Divindades
-
-Esses deuses menores podem ser incorporados em sua campanha de várias maneiras:
-
-1. **Práticas Religiosas**: Diferentes comunidades podem favorecer diferentes divindades com base em suas necessidades e valores
-2. **Intervenção Divina**: Deuses menores poderiam ocasionalmente se manifestar ou enviar sinais aos mortais
-3. **Domínios Clericais**: Clérigos em seu mundo poderiam extrair poder de divindades menores específicas
-4. **Variações Regionais**: Diferentes regiões podem ter interpretações ou nomes únicos para esses deuses
-5. **Festivais e Dias Sagrados**: Crie eventos de calendário celebrando diferentes divindades
-6. **Locais Sagrados**: Desenvolva locais particularmente associados a deuses específicos
-7. **Conflitos Divinos**: Crie tensões ou alianças entre diferentes facções divinas
 
 ## Estrutura do Panteão
 
