@@ -1,5 +1,5 @@
-![[Mulher misteriosa.webp]]
 
+![[Mulher misteriosa.webp]]
 ### **[[Araeni]]: A Filha que Cumpre uma Promessa**
 
 ### **A Morte da Mãe e a Perda de Propósito**

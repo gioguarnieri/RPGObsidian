@@ -10,3 +10,8 @@
     - **Coração Flamejante**: A própria **Gema do Coração de Kûara Pyatã**, fragmento de seu coração divino.
         
     - **Fênix de Pyatã**: Ave que renasce das cinzas, simbolizando esperança e recomeços.
+
+
+![[Kuara-Pyatã.webp]]
+
+Sob um céu estrelado, um deus colossal de pele bronzeada e olhos como brasas caminha silenciosamente por um campo de cactos e flores noturnas. Seu cabelo, em chamas douradas suaves, ondula como se fosse movido por uma brisa invisível. Sua armadura escura de meteorito brilha discretamente sob a luz das estrelas. O ambiente é calmo, mágico, com pétalas caindo ao redor.
