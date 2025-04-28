@@ -1,3 +1,4 @@
-![[Neru.webp|691x1041]]
+
+![[Neru.webp]]
 
 ![[Neru sem Máscara.webp]]
