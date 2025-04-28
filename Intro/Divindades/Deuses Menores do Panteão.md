@@ -61,7 +61,7 @@ Nas margens de um vasto rio que serpenteia através de uma floresta ancestral, Y
 - **Adoradores**: Artistas, ferreiros, amantes apaixonados, revolucionários
 - **Conexão Cultural**: Nome combina "tatá" (fogo) e "endy" (chama) em Guarani
 
-
+![[Tatendy.webp]]
 
 No centro de uma caverna iluminada por reflexos dourados e vermelhos, Tataendy, a deusa do Fogo e da Inspiração, dança com uma energia vibrante. Sua pele brilha como brasas vivas, irradiando calor suave, enquanto seus cabelos fluem como chamas douradas e vermelhas que jamais se apagam. Em suas mãos, ela segura um vaso de barro rústico do qual uma chama eterna se ergue, moldando-se brevemente em formas de aves e flores. Faíscas saltam de seus movimentos no ar, e uma pena vermelha incandescente paira ao seu redor, símbolo da paixão e da transformação criativa que ela inspira.
 ### Yvytu - Deus do Vento e Liberdade
@@ -72,6 +72,10 @@ No centro de uma caverna iluminada por reflexos dourados e vermelhos, Tataendy, 
 - **Adoradores**: Músicos, mensageiros, aqueles que buscam liberdade
 - **Conexão Cultural**: Nome significa "vento" em Guarani
 
+![[Yvytu.webp]]
+
+No alto de uma colina coberta por campos dourados, Yvytu, o deus do Vento e da Liberdade, dança invisível entre o sussurrar das gramíneas. Sua forma é etérea e quase transparente, ondulando como o próprio ar, adornada com penas leves que flutuam em torno de seu corpo mutável. Em suas mãos, ele segura uma flauta simples feita de madeira, da qual emanam melodias suaves que se misturam ao vento. Espirais de poeira e luz dourada giram ao seu redor, celebrando o espírito livre e errante que atravessa céus e terras sem fronteiras.
+
 ### Pytũ - Divindade da Noite e Segredos
 - **Domínio**: Noite, segredos, conhecimento oculto, sonhos, estrelas
 - **Aparência**: Figura sombria com olhos como estrelas, vestindo um manto de escuridão
@@ -79,6 +83,10 @@ No centro de uma caverna iluminada por reflexos dourados e vermelhos, Tataendy, 
 - **Origem**: Formado do vazio deixado pela partida de Angá
 - **Adoradores**: Estudiosos, espiões, sonhadores, observadores de estrelas
 - **Conexão Cultural**: Nome significa "noite" ou "escuridão" em Guarani
+
+![[Pytu.webp]]
+
+Sob um céu profundo cravejado de estrelas, Pytũ, a divindade da Noite e dos Segredos, desliza silenciosamente sobre dunas de areia escura. Sua figura é envolta em um manto que parece feito da própria noite, e seus olhos brilham como constelações distantes. Em uma mão, ele segura um espelho negro que reflete apenas a vastidão do cosmos. Ao seu redor, a brisa carrega sussurros antigos, e as estrelas cintilam como se revelassem mistérios esquecidos. A atmosfera é calma e enigmática, mergulhada em um misto de reverência e mistério.
 
 ## Estrutura do Panteão
 
