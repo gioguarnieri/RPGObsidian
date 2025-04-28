@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro/Itens mágicos/Coração gema.md",
+                "file": "Intro/Divindades/Angá.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coração gema"
+              "title": "Angá"
             }
           }
         ]
@@ -178,11 +178,13 @@
   },
   "active": "6e9a781862916524",
   "lastOpenFiles": [
+    "Imagens/angá.webp",
     "Intro/Divindades/Angá.md",
+    "Imagens/Nova pasta",
+    "Imagens/Novos",
     "Intro/Itens mágicos/Coração gema.md",
     "Intro/Divindades/Deuses Menores do Panteão.md",
     "Intro/Divindades/Kuara Pyatã.md",
-    "Imagens/angá.webp",
     "Imagens/angá-1.webp",
     "Imagens/Angá arte.webp",
     "Imagens/Pytu.webp",
@@ -220,8 +222,6 @@
     "Intro/NPCs/Brook.md",
     "Intro/Itens mágicos",
     "Intro/Cidades",
-    "Intro/NPCs",
-    "Intro/Jogadores",
-    "Imagens"
+    "Intro/NPCs"
   ]
 }
