@@ -1,6 +1,7 @@
+#item
 ![[coração gema.webp]]
 
-Após seu grande erro de excluir **[[Angá]]** da criação, **[[Kuara-Pyatã]]** mergulhou em remorso. Para redimir-se, ele forjou a **Gema do Coração** em sua bigorna celestial, usando **lágrimas de fogo puro** e **sementes das primeiras árvores**. A gema foi dada aos mortais como um presente de reconciliação, capaz de transformar terras áridas em solo fértil e curar regiões corrompidas.
+Após seu grande erro de excluir **[[Angá]]** da criação, **[[Kuara Pyatã]]** mergulhou em remorso. Para redimir-se, ele forjou a **Gema do Coração** em sua bigorna celestial, usando **lágrimas de fogo puro** e **sementes das primeiras árvores**. A gema foi dada aos mortais como um presente de reconciliação, capaz de transformar terras áridas em solo fértil e curar regiões corrompidas.
 
 ### **Características da Gema**
 

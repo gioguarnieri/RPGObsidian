@@ -1,3 +1,4 @@
+#npc #npcsecundario
 Eu acho que eu gosto muito mais de passar o que sei do que realmente buscar saber algo. Não me entenda mal, o problema é que eu gosto muito de buscar saber algo.
 
 Tenho uma curiosidade nata, não saber as coisas me incomoda horrores, mas do que adianta eu saber se não posso passar para frente? Ou muito pior, se não consigo!

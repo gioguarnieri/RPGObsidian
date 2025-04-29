@@ -1,3 +1,4 @@
+#notademesa
 Os jogadores, acompanhados de [[Neru]], seguiram em direção norte, passando pelas montanhas. 
 Foram seguidos por [[Araeni]], como sempre. O caminho pelas montanhas foi difícil, a maioria deles não é muito atlético e teve dificuldade em subir, tomando praticamente um dia inteiro pra fazer a passagem por ali.
 

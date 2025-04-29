@@ -25,7 +25,7 @@ Mulher misteriosa que segue os jogadores
 
 ## Se os jogadores não ajudarem Bagé
 
-- - Desde criança, Araeni ouvia a voz de [[Ánga]] em sua cabeça, uma presença constante que ela nunca conseguiu entender ou aceitar.
+- - Desde criança, Araeni ouvia a voz de [[Angá]] em sua cabeça, uma presença constante que ela nunca conseguiu entender ou aceitar.
     - Ela via a voz como uma intrusão, uma violação de sua privacidade e autonomia, e desenvolveu um profundo ressentimento em relação à deusa.
     - Agora, como avatar de Ánga, ela se sente ainda mais presa e punida, tendo que dividir seu corpo e sua mente com a divindade que sempre odiou.
 - **A Relação com Bagé**

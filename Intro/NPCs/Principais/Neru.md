@@ -1,3 +1,4 @@
+#npc #npcprincipal
 
 ![[Neru.webp]]
 

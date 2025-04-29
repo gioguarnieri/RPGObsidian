@@ -1,1 +1,2 @@
+#npc #npcsecundario
 ![[Ferg.webp]]

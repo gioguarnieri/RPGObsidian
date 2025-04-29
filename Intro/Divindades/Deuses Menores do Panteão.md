@@ -15,6 +15,11 @@ Construindo sobre a base de Angá e Kuara Pyatã como as divindades principais c
 ![[Yvytu]]
 ![[Pytu]]
 
+
+## Possível reencarnação de Angá
+
+![[Araeni]]
+
 ## Estrutura do Panteão
 
 O panteão poderia ser estruturado de várias maneiras:

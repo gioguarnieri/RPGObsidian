@@ -1,3 +1,4 @@
+#npc #npcsecundario
 É cada bobagem que eu tenho que ouvir. Esses dias o Maurício veio me contar que pescou um peixe do tamanho do filho dele, disse que foram um total de 3 horas lutando contra o peixe, segurando ele na vara. — Olegário ri e dá um trago em seu cachimbo.
 
 O Maurício, acredita? Aquele fracote que até o copo de cerveja é pesado demais. — Um gole longo de seu copo, com uma bebida qualquer. — Um agregado qualquer da família de dona Firmina.
