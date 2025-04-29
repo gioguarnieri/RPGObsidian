@@ -3,6 +3,8 @@ Foram seguidos por [[Araeni]], como sempre. O caminho pelas montanhas foi difíc
 
 Com receio de alguém estar seguindo eles e por uma tempestade que se aproximava, se apressaram para chegar em uma caverna conhecidamente utilizada por viajantes como abrigo. Por lá, encontraram [[Akmus]], o qual os recebeu com uma música suave e tranquilizante, ajudando no descanso deles.
 
+[[Akmus]] contou de sua vida difícil e sua desavenças com seu irmão [[Erthus]]. Se enfureceu com [[Jareth]] por uma certa falta de tato e depois se isolou do grupo.
+
 [[Jareth]] se interessou mais pelo rapaz, e ao perceber que as mãos de [[Akmus]] sangrava de tanto tocar, o ajudou cuidando dos ferimentos. Descobriu algumas coisas da região, como a existência de outras ilhas além da que sempre viveu, e foi apresentado ao conceito de um estrangeiro e escravidão.
 
 [[Sauras]] teve mais um encontro com a [Tatendy](Deuses Menores do Panteão#Tataendy - Deusa do Fogo e Inspiração), depois de [[Akmus]] demonstrar suas habilidades naturais com fogo. [Tatendy](Deuses Menores do Panteão#Tataendy - Deusa do Fogo e Inspiração) ainda tenta um contato com [[Sauras]], porém, passa por dificuldades impostas por [[Kuara Pyatã]].
