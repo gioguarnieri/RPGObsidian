@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resumo mesas/Quarta mesa.md",
+                "file": "Intro/NPCs/Principais/Bagé.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quarta mesa"
+              "title": "Bagé"
             }
           },
           {
@@ -190,24 +190,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e9a781862916524",
+  "active": "b20d66ff4710501e",
   "lastOpenFiles": [
-    "Intro/NPCs/Taiguara - A criança.md",
-    "Intro/NPCs/Silvinha.md",
-    "Intro/Cidades/Valíria.md",
+    "Intro/NPCs/Secundários",
     "Resumo mesas/Quarta mesa.md",
+    "Intro/NPCs/Principais",
+    "Intro/NPCs/Principais/Taiguara - A criança.md",
+    "Intro/NPCs/Secundários/Silvinha.md",
+    "Intro/Cidades/Valíria.md",
     "Intro/Cidades/Taver.md",
     "Intro/Cidades/Karaban.md",
-    "Intro/NPCs/Olegário.md",
-    "Intro/NPCs/Neru.md",
-    "Intro/NPCs/Kang.md",
-    "Intro/NPCs/Jaxi.md",
-    "Intro/NPCs/Erthus.md",
-    "Intro/NPCs/Ferg.md",
-    "Intro/NPCs/Cecía.md",
-    "Intro/NPCs/Brook.md",
-    "Intro/NPCs/Bagé.md",
-    "Intro/NPCs/Akmus.md",
+    "Intro/NPCs/Secundários/Olegário.md",
+    "Intro/NPCs/Principais/Neru.md",
+    "Intro/NPCs/Secundários/Kang.md",
+    "Intro/NPCs/Secundários/Jaxi.md",
+    "Intro/NPCs/Secundários/Erthus.md",
+    "Intro/NPCs/Secundários/Ferg.md",
+    "Intro/NPCs/Secundários/Cecía.md",
+    "Intro/NPCs/Principais/Brook.md",
+    "Intro/NPCs/Principais/Bagé.md",
+    "Intro/NPCs/Secundários/Akmus.md",
     "Intro/Jogadores/Sauras.md",
     "Intro/Jogadores/Poy poy.md",
     "Intro/Jogadores/Jorran.md",
@@ -217,7 +219,6 @@
     "Intro/Itens mágicos/Coração gema.md",
     "Intro/Divindades/Kuara Pyatã.md",
     "Intro/Divindades/Deuses Menores do Panteão.md",
-    "Intro/Divindades/Angá.md",
     "Resumo mesas",
     "Imagens/coração gema.webp",
     "Imagens/angá.webp",
