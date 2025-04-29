@@ -1,2 +1,0 @@
-#npc #npcsecundario
-![[Kang.webp]]

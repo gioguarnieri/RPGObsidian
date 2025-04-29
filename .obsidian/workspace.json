@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro/NPCs/Principais/Taiguara.md",
+                "file": "Intro/NPCs/Principais/Brook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Taiguara"
+              "title": "Brook"
             }
           }
         ]
@@ -176,16 +176,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e9a781862916524",
+  "active": "b20d66ff4710501e",
   "lastOpenFiles": [
-    "Intro/Jogadores/Jorran.md",
+    "Jogadores atuais",
+    "Intro/Jogadores/Untitled",
+    "Intro/Itens mágicos/Coração gema.md",
+    "Humano.md",
+    "Intro/NPCs/Secundários/Klang.md",
     "Intro/NPCs/Principais/Taiguara.md",
+    "Intro/Jogadores/Jorran.md",
     "Taiguara.md",
     "Intro/NPCs/Principais/Bagé.md",
     "Intro/Divindades/Deuses menores/Araeni.md",
     "Intro/Divindades/Angá.md",
     "Ánga.md",
-    "Intro/Itens mágicos/Coração gema.md",
     "Intro/Cidades/Valíria.md",
     "Intro/Cidades/Taver.md",
     "Intro/Cidades/Lahn.md",
@@ -194,7 +198,6 @@
     "Intro/Cidades/Cidade de Angá.md",
     "Intro/NPCs/Secundários/Silvinha.md",
     "Intro/NPCs/Secundários/Olegário.md",
-    "Intro/NPCs/Secundários/Kang.md",
     "Intro/NPCs/Secundários/Jaxi.md",
     "Intro/NPCs/Secundários/Ferg.md",
     "Intro/NPCs/Secundários/Erthus.md",
@@ -202,8 +205,6 @@
     "Intro/NPCs/Secundários/Akmus.md",
     "Intro/NPCs/Principais/Brook.md",
     "Intro/NPCs/Principais/Neru.md",
-    "Resumo mesas/Quarta mesa.md",
-    "Resumo mesas/Primeira mesa.md",
     "Imagens/angá.webp",
     "Intro/Divindades/Deuses menores",
     "Intro/NPCs/Secundários",
@@ -222,7 +223,6 @@
     "Intro/Itens mágicos",
     "Intro/Cidades",
     "Intro/NPCs",
-    "Intro/Jogadores",
-    "Imagens"
+    "Intro/Jogadores"
   ]
 }
