@@ -1,1 +1,1 @@
-[[Alberich]] é um humano ladino, pouco carismático com ideias de robin hood. Também de [[Angá]].
+[[Alberich]] é um humano ladino, pouco carismático com ideias de robin hood. Também da [[Cidade de Angá]].

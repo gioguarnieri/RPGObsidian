@@ -1,1 +1,1 @@
-[[Jareth]] é um [[Ivipora]] clérigo, não sei muito sobre, exceto que era do culto principal de [[Angá]]
+[[Jareth]] é um [[Ivipora]] clérigo, não sei muito sobre, exceto que era do culto principal de [[Angá]]. Também da [[Cidade de Angá]].

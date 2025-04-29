@@ -1,1 +1,1 @@
-[[Grom]] é outro humano ladino, que era um caçador enquanto vivia em [[Angá]], Grom também se motiva em ajudar os mais pobres.
+[[Grom]] é outro humano ladino, que era um caçador enquanto vivia na [[Cidade de Angá]], Grom também se motiva em ajudar os mais pobres. 
