@@ -1,0 +1,1 @@
+Irmão de [[Akmus]]

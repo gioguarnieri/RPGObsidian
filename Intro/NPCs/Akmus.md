@@ -1,1 +1,1 @@
-[[Erthus]]
+Irmão de [[Erthus]]
