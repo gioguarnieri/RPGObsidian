@@ -11,14 +11,10 @@
             "id": "6e9a781862916524",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intro/NPCs/Principais/Brook.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Brook"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -178,6 +174,8 @@
   },
   "active": "b20d66ff4710501e",
   "lastOpenFiles": [
+    "Intro/Jogadores/Sauras.md",
+    "Intro/NPCs/Principais/Brook.md",
     "Jogadores atuais",
     "Intro/Jogadores/Untitled",
     "Intro/Itens mágicos/Coração gema.md",
@@ -203,7 +201,6 @@
     "Intro/NPCs/Secundários/Erthus.md",
     "Intro/NPCs/Secundários/Cecía.md",
     "Intro/NPCs/Secundários/Akmus.md",
-    "Intro/NPCs/Principais/Brook.md",
     "Intro/NPCs/Principais/Neru.md",
     "Imagens/angá.webp",
     "Intro/Divindades/Deuses menores",
@@ -222,7 +219,6 @@
     "Sugestões da IA",
     "Intro/Itens mágicos",
     "Intro/Cidades",
-    "Intro/NPCs",
-    "Intro/Jogadores"
+    "Intro/NPCs"
   ]
 }
