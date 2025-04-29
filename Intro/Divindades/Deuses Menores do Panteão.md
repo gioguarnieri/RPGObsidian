@@ -1,4 +1,4 @@
-# Deuses Menores do Panteão
+
 
 Construindo sobre a base de Angá e Kuara Pyatã como as divindades principais com influências Tupi-Guarani, aqui estão sugestões para deuses menores que poderiam povoar seu panteão. Essas divindades mantêm o tema cultural enquanto expandem a hierarquia divina para criar uma rica tapeçaria mitológica.
 
