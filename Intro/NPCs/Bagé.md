@@ -1,4 +1,4 @@
-[[Bagé]] é solitário em tupi
+[[Intro/Bagé]] é solitário em tupi
 
 Um cientista imortal, que busca entender a própria imortalidade. Foi o único [[Ivipora]] a sair da cidade central, seu paradeiro é desconhecido, mas há rumores de que viajou para o norte. Era conhecido como uma pessoa caridosa, atenciosa que sempre buscou a ajudar as pessoas ao seu redor. Um médico nato, que comungava com os espíritos e oferecia uma cura rápida.
 

@@ -10,7 +10,7 @@
 
 ### **O Pedido da Mãe**
 
-- Antes de morrer, a mãe de Araeni fez um último pedido: que ela ajudasse [[Bagé]] a encontrar alguém de sua antiga região.
+- Antes de morrer, a mãe de Araeni fez um último pedido: que ela ajudasse [[Intro/Bagé]] a encontrar alguém de sua antiga região.
 - Esse pedido é o único fio que ancora Araeni ao mundo, uma promessa que ela se sente obrigada a cumprir, mesmo que não tenha mais um propósito pessoal.
 - Para Araeni, ajudar Bagé não é uma questão de amor ou lealdade, mas sim de honrar a memória da mãe e cumprir uma dívida emocional.
 
