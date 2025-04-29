@@ -1,3 +1,4 @@
+#deus
 [[Angá]] é a divindade da criação que abriu mão de seu corpo físico para permear todas as criaturas vivas.
 
 No momento da criação, era a solitude da divindade, que, depois de explorar o vazio e se entristecer, decidiu abrir mão de seu corpo e alma para as criações físicas e espirituais.

@@ -1,3 +1,4 @@
+#deus
 Ex-conjuge de [[Angá]].
 - **Domínio**: Criação, coragem, fogo sagrado, redenção, laços de honra.
     
