@@ -1,0 +1,1 @@
+é um [Valíriano](Valíria) sobrevivente do descontrole de [[Sauras]]. Tem seu corpo marcado pelas chamas, e esconde as queimaduras com sua máscara. Usa da ignorância e inocência de [[Aitor]] para ganhar poder e controlar a região, sendo o principal causador da guerra entre os irmãos herdeiros de [[Karaban]] e [[Taver]].
