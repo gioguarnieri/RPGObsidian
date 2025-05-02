@@ -10,7 +10,7 @@ Ex-conjuge de [[Angá]].
         
     - **Coração Flamejante**: A própria **Gema do Coração de Kûara Pyatã**, fragmento de seu coração divino.
         
-    - **Fênix de Pyatã**: Ave que renasce das cinzas, simbolizando esperança e recomeços.
+    - **Arara de Pyatã**: Ave que renasce das cinzas, simbolizando esperança e recomeços.
 
 
 ![[Kuara-Pyatã.webp]]
