@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mitos e lendas/A cosmologia da ilha de Arara.md",
+                "file": "Mitos e lendas/Rituais/Ritual da nomeação.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A cosmologia da ilha de Arara"
+              "title": "Ritual da nomeação"
             }
           }
         ]
@@ -178,6 +178,17 @@
   },
   "active": "6e9a781862916524",
   "lastOpenFiles": [
+    "Divindades/Deuses menores/Yvytu.md",
+    "Mitos e lendas/Rituais/Ritual da nomeação.md",
+    "Mitos e lendas/Rituais",
+    "Divindades/Deuses menores/Jacy.md",
+    "Divindades/Deuses menores/Ibirá.md",
+    "Divindades/Deuses menores/Itá.md",
+    "Divindades/Deuses menores/Pytu.md",
+    "Divindades/Deuses menores/Yberá-Tá.md",
+    "Divindades/Deuses menores/Tataendy.md",
+    "Divindades/Deuses menores/Araeni.md",
+    "Mitos e lendas/A cosmologia da ilha de Arara.md",
     "Divindades/Deuses Menores do Panteão.md",
     "Divindades/Kuara Pyatã.md",
     "Intro/NPCs/Secundários/Ainhoa.md",
@@ -192,19 +203,9 @@
     "Intro/Cidades/Cidade de Angá.md",
     "Imagens/Jardins de Taver.webp",
     "Resumo mesas/Primeira mesa.md",
-    "Mitos e lendas/A cosmologia da ilha de Arara.md",
     "Intro/NPCs/Secundários/Silvinha.md",
     "Intro/NPCs/Secundários/Realeza de Taver.md",
     "Intro/NPCs/Secundários/Olegário.md",
-    "Intro/NPCs/Secundários/Klang.md",
-    "Intro/NPCs/Secundários/Jaxi.md",
-    "Intro/NPCs/Secundários/Gaizka.md",
-    "Intro/NPCs/Secundários/Ferg.md",
-    "Intro/NPCs/Secundários/Cecía.md",
-    "Intro/NPCs/Secundários/Akmus.md",
-    "Intro/NPCs/Secundários/Aitor.md",
-    "Intro/NPCs/Principais/Taiguara.md",
-    "Intro/NPCs/Principais/Neru.md",
     "Mitos e lendas",
     "Imagens/Erthus.webp",
     "Imagens/Erthus.webp",
@@ -222,7 +223,6 @@
     "Imagens/Nova pasta",
     "Imagens/Novos",
     "Imagens/Pytu",
-    "Imagens/Yvytu",
-    "Imagens/Tatendy"
+    "Imagens/Yvytu"
   ]
 }
