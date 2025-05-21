@@ -17,3 +17,5 @@ Os Arara, que antes viviam como estrelas, estão agora condenados a viver como g
 A atitude de [[Kuara Pyatã]] criou um grande desgosto em [[Angá]]. Vendo seus queridos serem deixados à deriva, [[Angá]] partiu também e deu sua vida para criar, mais uma vez, a boa humanidade.
 
 Agora, como havia aprendido com o erro, deixou os [[Ivipora]] com o dom da imortalidade e renascimento cuidando de uma região já ocupada pelos humanos e anões.
+
+![[Angá arte.webp]]

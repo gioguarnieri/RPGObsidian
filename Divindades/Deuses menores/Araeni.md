@@ -2,6 +2,10 @@
 Mulher misteriosa que segue os jogadores
 
 ![[Mulher misteriosa.webp]]
+
+Sua ave é a Arara híbrida
+
+![[Arara Híbrida.webp|422x281]]
 ### **A Filha que Cumpre uma Promessa**
 
 ### **A Morte da Mãe e a Perda de Propósito**

@@ -1,5 +1,10 @@
 #deus
-Ex-conjuge de [[Angá]].
+Ex-conjuge de [[Angá]]. 
+
+Sua ave é a **Arara Vermelha**
+
+![[Ara_chloropterus_-Apenheul_Primate_Park_-Netherlands-8a.webp|288x480]]
+
 - **Domínio**: Criação, coragem, fogo sagrado, redenção, laços de honra.
     
 - **Aparência**: Um homem colossal com músculos esculpidos como montanhas, pele cor de bronze queimado e olhos que brilham como brasas. Seu cabelo é uma cascata de chamas douradas, e suas mãos carregam cicatrizes de forja divina. Veste uma armadura feita de meteoros fundidos, com um coração flamejante pulsando em seu peito.

@@ -1,4 +1,12 @@
 #deusmenor da Pedra e Permanência
+
+
+![[Itá.webp]]
+
+Sua ave é o **joão-de-barro _Furnarius rufus_**
+
+![[João de barro.webp|519x346]]
+
 - **Domínio**: Montanhas, pedra, permanência, fundações, juramentos
 - **Aparência**: Uma figura sólida com pele como granito polido, adornada com crescimentos de cristal
 - **Símbolos**: Pico de montanha, tábua de pedra, círculo ininterrupto
@@ -7,5 +15,4 @@
 - **Conexão Cultural**: Nome significa "pedra" em Tupi-Guarani
 
 
-![[Itá.webp]]
-Em meio a montanhas colossais sob um céu cinzento e majestoso, Itá, a deusa da Pedra e da Permanência, ergue-se imponente sobre um platô de granito. Sua pele reluz como pedra polida, entremeada por veios e cristais cintilantes que captam a luz suave do entardecer. Ela carrega uma grande tábua de pedra gravada com símbolos antigos, e um círculo ininterrupto brilha discretamente em seu peito. Firme e inabalável, Itá permanece imóvel enquanto ventos frios sopram ao seu redor, como se o tempo se dobrasse à sua eterna presença.
+Em um vale exuberante cercado por montanhas cobertas de floresta, ergue-se a imponente figura de uma deusa da natureza e das montanhas. Seu corpo, feito de pedra viva, é entrelaçado por troncos e galhos que se transformam em pequenas árvores crescendo por toda sua pele — dos ombros aos braços, passando pelo peito até a cabeça, onde uma copa frondosa se forma como uma coroa natural. Seu semblante é sereno e ancestral, olhando o horizonte com firmeza e calma. A vegetação ao redor continua seu fluxo sobre ela, como se o próprio vale estivesse em comunhão com sua guardiã eterna. A luz suave do céu parcialmente nublado banha a cena com tons dourados e verdes profundos, dando à imagem um tom sagrado e contemplativo.
