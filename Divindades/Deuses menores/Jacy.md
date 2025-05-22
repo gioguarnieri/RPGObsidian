@@ -4,7 +4,7 @@
 
 Sua ave é a **Coruja buraqueira _Speotyto cunicularia_**
 
-![[Coruja Buraqueira.webp]]
+![[Coruja Buraqueira.webp|434x538]]
 
 - **Domínio**: Ciclos lunares, transições, limiares, portais, mudança
 - **Aparência**: Uma figura graciosa com pele prateada que cresce e diminui em luminosidade, usando um adorno de cabeça em forma de lua crescente

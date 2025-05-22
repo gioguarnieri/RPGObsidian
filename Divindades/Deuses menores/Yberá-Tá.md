@@ -4,7 +4,7 @@
 
 Sua ave é a **Garça-branca-grande _Ardea alba_**
 
-![[Garça.webp]]
+![[Garça.webp|368x312]]
 
 - **Domínio**: Rios, viagem, comércio, jornada da vida, purificação
 - **Aparência**: Forma fluida com água constantemente fluindo como cabelo e vestes
