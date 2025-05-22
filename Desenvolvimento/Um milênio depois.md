@@ -16,3 +16,17 @@ A ilha nunca foi tão vibrante...
 
 # Na visão de [[Araeni]]
 
+Me enfurece saber o que aconteceu com meu pai. Gozava de uma vida tranquila em companhia de [[Taiguara]], mas nunca imaginou que suas ações teriam consequências tão fortes. [[Bagé]] não sabia direito onde se metia, abusava de forças que iam muito além da sua compreensão.
+
+Eu vi tudo, eu sabia de tudo, e não podia ajudar. [[Angá]] não me permitia.
+
+Por que? Ó deusa desgraçada, por que me fizeste viver vendo o sofrimento de meu próprio pai?
+
+Te rogava por ajuda, e me deste somente moléstia?
+
+Pois saiba bem, que um dia irei ter minha vingança.
+
+Que seja de seu conhecimento que teu fim está marcado.
+
+
+
