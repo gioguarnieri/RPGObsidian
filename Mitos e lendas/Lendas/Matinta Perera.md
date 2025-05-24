@@ -1,0 +1,2 @@
+#lendacriatura 
+"A lenda da Matinta Perera fala de uma velha bruxa/feiticeira que sai pela noite em forma de pássaro, assoviando próximo das casas das pessoas e incomodando o sono delas. Para afastá-la, é necessário prometer-lhe algo, como fumo. No outro dia, uma mulher aparece para recolher o fumo, e, se a promessa não for cumprida, uma maldição é lançada."

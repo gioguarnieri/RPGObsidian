@@ -1,0 +1,2 @@
+#lendacriatura 
+"Essa lenda conta a história de um indígena que foi morto ao ser picado por uma cobra venenosa. De acordo com a história, o guaraná teria surgido dos olhos desse indígena após ele ter sido enterrado. Esse fruto é conhecido por sua capacidade de dar energia a quem o consome."

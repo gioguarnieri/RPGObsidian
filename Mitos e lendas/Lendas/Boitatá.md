@@ -1,0 +1,2 @@
+#lendacriatura
+"Na lenda, o boitatá é uma cobra de fogo que protege os campos daqueles que tentam incendiar o mato de maneira criminosa. Além disso, ele é descrito como um ser de muitos olhos, e desses olhos saem chamas. Os olhos foram obtidos dos homens devorados pelo boitatá. Essa lenda esteve presente entre os indígenas no século XVI."

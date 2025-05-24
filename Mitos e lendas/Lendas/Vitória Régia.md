@@ -1,0 +1,2 @@
+#lendacriatura
+"A lenda da vitória-régia fala da indígena Naiá, que era apaixonada pela Lua (Jaci). Ela viu o reflexo da Lua em uma lagoa, jogou-se nas águas e morreu afogada. Assim, ao ver o esforço de Naiá para chegar a ela, a Lua decidiu transformá-la na vitória-régia, a estrela das águas."
