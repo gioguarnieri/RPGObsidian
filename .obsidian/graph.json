@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "- path: \"Resumo mesas\"  ",
+  "search": "- path: \"Resumo mesas\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -53,7 +53,7 @@
       "query": "path:Intro/Cidades  ",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 27863
       }
     },
     {
@@ -61,6 +61,13 @@
       "color": {
         "a": 1,
         "rgb": 3536128
+      }
+    },
+    {
+      "query": "path:Desenvolvimento/Cidades  ",
+      "color": {
+        "a": 1,
+        "rgb": 27872
       }
     }
   ],
@@ -74,6 +81,6 @@
   "repelStrength": 17.1517671517672,
   "linkStrength": 1,
   "linkDistance": 339,
-  "scale": 0.3628873693012179,
+  "scale": 0.09392927902847185,
   "close": true
 }
