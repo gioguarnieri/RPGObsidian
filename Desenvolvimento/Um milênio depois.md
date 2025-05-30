@@ -1,6 +1,5 @@
-
 ## **Seiscentos anos depois**
-A ilha que um dia respirava em harmonia com os ventos e os rios sucumbiu àquilo que nem os mais antigos cantos dos pajés previram. **Seiscentas luas** após a vinda dos heróis do vale onde os ventos sussurram segredos, algo rompeu. **Aquele que não conhecia a morte** — cujo sopro mantinha as raízes do mundo firmes — deixou de existir. E com ele, desfez-se o equilíbrio.
+A ilha que um dia respirava em harmonia com os ventos e os rios sucumbiu àquilo que nem os mais antigos cantos dos pajés previram. **Seiscentos verões** após a vinda dos heróis do vale onde os ventos sussurram segredos, algo rompeu. **Aquele que não conhecia a morte** — cujo sopro mantinha as raízes do mundo firmes — deixou de existir. E com ele, desfez-se o equilíbrio.
 
 No Norte, onde antes as árvores dançavam com as nuvens, a terra engoliu suas próprias sementes. Os frutos murcharam antes de nascer, e os animais que lá ousaram pisar tornaram-se sombras sem voz. Até os pássaros, em revoada, desviam seus rumos, como se o próprio céu rejeitasse o que restou. Os rios foram os únicos que resistiram.
 
