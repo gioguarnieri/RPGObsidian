@@ -1,3 +1,4 @@
+#notademesa 
 A mesa começou com uma pequena cena de [[Sauras]] com [[Aitor]] e [[Cadias]]. Ambos tentavam convencer [[Sauras]] de usar seu poder desenfreado na guerra entre as cidades, para tentar dizimar a região de [[Taver]], porém [[Sauras]] não pareceu inclinado em ajudá-los, mesmo com a ameaça de [[Erthus]], pelo menos não da forma que eles queriam.
 
 Sauras tinha o interesse de tomar a região para si, e tentou convencer Cadias de cometer um golpe de estado, usurpando a coroa de [[Aitor]]. [[Cadias]] também não se mostrou muito a favor a isso, vendo que tem um passado onde foi afetado pelo descontrole de [[Sauras]].
@@ -16,5 +17,7 @@ Os jogadores se aproximaram de [[Gaizka]] e conheceram a verdadeira história da
 
 Com o tempo, conversando com [[Gaizka]], descobriram que Bagé passou por ali e deixou uma arte. ![[Angá arte.webp|214x321]]
 
-Onde [[Taiguara]] se identificou. Logo depois, [[Araeni]] apareceu, se aproximou de [[Taiguara]] dando um abraço e a mesa acabou.
+a qual [[Taiguara]] se identificou. 
+
+Logo depois, [[Araeni]] apareceu, se aproximou de [[Taiguara]] dando um abraço e a mesa acabou.
 
