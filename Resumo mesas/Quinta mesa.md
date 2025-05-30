@@ -14,5 +14,7 @@ Por fim, presenciaram somente uma carroça levando suprimentos de [[Taver]] a [[
 
 Os jogadores se aproximaram de [[Gaizka]] e conheceram a verdadeira história das duas cidades. [[Aitor]] e [[Gaizka]] são irmãos, que herdaram o trono de seu falecido pai, que num acordo entre cidades, reinava ambas [[Taver]] e [[Karaban]]. Porém, com sua morte, [[Cadias]] começou a enganar [[Aitor]] e causou a cisão dessa aliança. [[Gaizka]] fugiu para [[Taver]] para poupar sua vida, e ali começou a gerenciar a cidade. [[Taver]] alimenta ambas, com sua prosperidade alimentícia, enquanto [[Karaban]] trazia riquezas minerais. Agora as duas sofrem por escassez.
 
-Com o tempo, conversando com [[Gaizka]], conheceram melhor 
+Com o tempo, conversando com [[Gaizka]], descobriram que Bagé passou por ali e deixou uma arte. ![[Angá arte.webp|214x321]]
+
+Onde [[Taiguara]] se identificou. Logo depois, [[Araeni]] apareceu, se aproximou de [[Taiguara]] dando um abraço e a mesa acabou.
 
