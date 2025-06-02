@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1cde69c02f3817a6",
+        "id": "ac7089a3b4e2286d",
         "type": "tabs",
         "children": [
           {
-            "id": "6e9a781862916524",
+            "id": "e3a43b7b1e8625b6",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -37,10 +37,10 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de ficheiros"
             }
           },
           {
@@ -159,63 +159,63 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 335.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
+      "switcher:Abrir Quick Switcher": false,
+      "graph:Abrir Visualização de diagrama de grafo": false,
+      "daily-notes:Abrir nota de hoje": false,
+      "templates:Inserir templates": false,
+      "command-palette:Abrir paleta de comando": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6e9a781862916524",
+  "active": "b20d66ff4710501e",
   "lastOpenFiles": [
-    "Resumo mesas/Quinta mesa.md",
-    "Resumo mesas/Quarta mesa.md",
-    "Resumo mesas/Primeira mesa.md",
-    "Desenvolvimento/Regiões/Cordilheira de Ibitirá.md",
-    "Desenvolvimento/Um milênio depois.md",
+    "Mitos e lendas/Lendas/Boitatá.md",
+    "Mitos e lendas/Lendas/Caipora.md",
     "Divindades/Deuses menores/Araeni.md",
     "Divindades/Deuses menores/Itá.md",
-    "Mitos e lendas/Rituais/Ritual da nomeação.md",
-    "Mitos e lendas/Rituais/O dia da criação.md",
-    "Mitos e lendas/Rituais/A troca de estação.md",
-    "Mitos e lendas/Rituais",
-    "Mitos e lendas/Lendas/Vitória Régia.md",
-    "Mitos e lendas/Lendas/Pirarucu.md",
-    "Mitos e lendas/Lendas/Matinta Perera.md",
-    "Mitos e lendas/Lendas/Mandioca.md",
-    "Mitos e lendas/Lendas/Iara.md",
-    "Mitos e lendas/Lendas/Curupira.md",
-    "Mitos e lendas/Lendas/Guaraná.md",
-    "Mitos e lendas/Lendas/Coletânea.md",
-    "Mitos e lendas/Lendas/Caipora.md",
-    "Mitos e lendas/Lendas/Boto cor-de-rosa.md",
-    "Mitos e lendas/Lendas/Boitatá.md",
-    "Mitos e lendas/Lendas",
-    "Imagens/Urutau grande.webp",
-    "Imagens/Principe.webp",
-    "Imagens/João de barro.webp",
-    "Imagens/Itá_antiga.webp",
-    "Imagens/Garça.webp",
-    "Imagens/Falcão.webp",
-    "Imagens/Coruja Buraqueira.webp",
-    "Imagens/Beija-flor.webp",
-    "Imagens/Arara Híbrida.webp",
-    "Imagens/Ara_chloropterus_-Apenheul_Primate_Park_-Netherlands-8a.webp",
+    "Divindades/Deuses menores/Ibirá.md",
+    "Desenvolvimento/Um milênio depois.md",
     "Desenvolvimento/Regiões/Tataitá.md",
     "Desenvolvimento/Regiões/Tapera Maíra.md",
     "Desenvolvimento/Regiões/Paranapecu.md",
     "Desenvolvimento/Regiões/Ibitu.md",
+    "Desenvolvimento/Regiões/Cordilheira de Ibitirá.md",
+    "Desenvolvimento/Cidades/Angakuera.md",
+    "Intro/Cidades/Cidade de Angá.md",
     "Desenvolvimento/Cidades/Tataú.md",
+    "Desenvolvimento/Cidades/Nova Valíria.md",
+    "Desenvolvimento/Cidades/Jacy.md",
+    "Desenvolvimento/Cidades/Itatambori.md",
+    "Desenvolvimento/Cidades/Ipaú.md",
+    "Desenvolvimento/Cidades/Igarapá.md",
+    "Desenvolvimento/Cidades/Ibiratuba.md",
+    "Desenvolvimento/Cidades/Iberapá.md",
+    "Desenvolvimento/Cidades/Dustbrook.md",
+    "Desenvolvimento/Cidades/Aguape.md",
     "Desenvolvimento/Regiões",
+    "Desenvolvimento/Sem título.md",
+    "Intro/Cidades/Dustbrook.md",
+    "Mitos e lendas/Rituais/Ritual da nomeação.md",
     "Desenvolvimento/Cidades",
-    "Desenvolvimento",
+    "Mitos e lendas/Lendas",
     "Chats",
+    "Imagens/Mapa maior-1.webp",
+    "Imagens/Mapa maior.webp",
+    "Imagens/Arara Híbrida.webp",
+    "Imagens/Ara_chloropterus_-Apenheul_Primate_Park_-Netherlands-8a.webp",
+    "Imagens/Beija-flor.webp",
+    "Imagens/Lahn.webp",
+    "Imagens/arara azul grande.webp",
+    "Imagens/Urutau grande.webp",
+    "Imagens/5526892_beb29b4d03b0fa7762b2e2ab11d3e753.webp",
+    "Desenvolvimento",
+    "Imagens/Coruja Buraqueira.webp",
+    "Mitos e lendas/Rituais",
     "Mitos e lendas",
     "Resumo mesas",
     "Intro/NPCs/Secundários",

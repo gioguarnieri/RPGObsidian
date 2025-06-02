@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "- path: \"Resumo mesas\"",
+  "collapse-filter": true,
+  "search": "- path: \"Resumo mesas\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "path:Divindades  ",
+      "query": "path:Intro/Divindades  ",
       "color": {
         "a": 1,
         "rgb": 14725458
@@ -53,21 +53,21 @@
       "query": "path:Intro/Cidades  ",
       "color": {
         "a": 1,
-        "rgb": 27863
+        "rgb": 5395168
       }
     },
     {
-      "query": "path:\"Mitos e lendas\"  ",
+      "query": "path:Divindades  ",
       "color": {
         "a": 1,
-        "rgb": 3536128
+        "rgb": 16711680
       }
     },
     {
-      "query": "path:Desenvolvimento/Cidades  ",
+      "query": "path:\"Mitos e lendas/Lendas\"  ",
       "color": {
         "a": 1,
-        "rgb": 27872
+        "rgb": 65322
       }
     }
   ],
@@ -81,6 +81,6 @@
   "repelStrength": 17.1517671517672,
   "linkStrength": 1,
   "linkDistance": 339,
-  "scale": 0.2588386562181693,
+  "scale": 0.25883865621816815,
   "close": true
 }
