@@ -1,7 +1,7 @@
 #deusmenor da Pedra e Permanência
 
 
-![[Itá.webp]]
+![[Itá.webp|441x662]]
 
 Sua ave é o **joão-de-barro _Furnarius rufus_**
 
