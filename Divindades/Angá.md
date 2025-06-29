@@ -18,3 +18,6 @@ De sua alma, também, veio a magia, intrinsecamente conectada com os seres vivos
 Sua ave é a **Arara azul grande _Anodorhynchus hyacinthinus_**
 
 ![[arara azul grande.webp]]
+
+![[Angá arte.webp]]
+
