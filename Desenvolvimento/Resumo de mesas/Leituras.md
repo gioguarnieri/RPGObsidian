@@ -1,5 +1,5 @@
 
-## Leitura inicial
+## Leitura introdução
 
 Um incômodo lateja na sua nuca antes mesmo de você perceber o cartaz. Lá longe, pendurado em uma larga árvore no meio da cidade tem um cartaz escrito "precisa-se de ajuda. Boas recompensas. Procurar por Felipe".
 

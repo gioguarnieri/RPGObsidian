@@ -1,0 +1,1 @@
+![[braço corrompido.webp]]
