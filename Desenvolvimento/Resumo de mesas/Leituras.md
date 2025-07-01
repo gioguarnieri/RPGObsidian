@@ -23,20 +23,3 @@ Você volta até onde estava o anúncio, estranho que não tem mais o papel ali,
 
 Elas agora se apresentam: (apresentação dos jogadores)
 
-## A verdadeira missão
-
-Depois disso tudo, os jogadores devem partir em conjunto buscando por Felipe. Vão passar um tempo interagindo com a cidade, e então vou direcioná-los à falar com o Werá da região, o qual dará uma missão mais concreta para eles.
-
-A missão vai ser investigar o que causou o mau gosto no poço de água de um dos bairros da cidade, que está fazendo com que as pessoas andem muito mais pra conseguir sua água, um grande empecilho para aquelas pessoas.
-
-Quando os jogadores chegarem, serão recebidos com muito carinho pelas pessoas, visto como heróis, já que se disponibilizaram a arrumar um problema que já está acontecendo há quase uma semana. Algumas pessoas beberam da água ali do poço e estão em situação crítica, se os jogadores investigarem vão ver que é um envenenamento. Com um teste bem sucedido de Arcana ou Medicina conseguem ver que não é um envenenamento do corpo, apesar de ter todos os sintomas.
-
-No fim da investigação, eles vão perceber que há um Javali corrompido que fica se banhando na água que alimenta o poço. O javali parece desesperado, talvez nem devesse estar ali, mas tenta limpar sua corrupção com a água a todo custo.
-
-E aí começa a batalha.
-
-No fim da batalha, uma orbe que absorve toda a luz vai cair da cabeça do javali, formando uma poça de escuridão, que se espalha como um líquido viscoso. [[Ybane]] pegará a orbe trazendo junto o líquido viscoso que encobre seu braço. [[Ybane]] sente milhares de agulhas furando sua pele, seus dedos queimam com um gelo extremamente frio, uma navalha corta por entre seus dedos, e uma marreta esmaga sua mão. 
-
-Toma 39 de dano.
-
-A escuridão sobe pelo braço de [[Ybane]] lentamente, querendo tomar seu corpo. Os jogadores devem agir.
