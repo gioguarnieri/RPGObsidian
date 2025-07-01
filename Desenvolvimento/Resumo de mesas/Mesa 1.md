@@ -12,4 +12,8 @@ No fim da batalha, uma orbe que absorve toda a luz cai da cabeça do javali, for
 
 Toma 39 de dano.
 
-A escuridão sobe pelo braço de [[Ybane]] lentamente, querendo tomar seu corpo. [[Tupã-Ramé]] age rápido, fazendo um torniquete e [[Inawa]] decepa o braço dele.
+A escuridão sobe pelo braço de [[Ybane]] lentamente, querendo tomar seu corpo. [[Tupã-Ramé]] age rápido, fazendo um torniquete e [[Inawa]] decepa o braço dele. Formando o seguinte item:
+
+![[braço corrompido.webp|347x521]]
+
+A mesa termina aí, a próxima deve começar com os jogadores indo investigar essa mão e um terremoto muito forte acontecendo.
