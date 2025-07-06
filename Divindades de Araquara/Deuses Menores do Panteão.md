@@ -4,7 +4,7 @@ Construindo sobre a base de Angá e Kuara Pyatã como as divindades principais c
 
 ## Filhos de [[Angá]] e [[Kuara Pyatã]]
 
-![[Divindades/Deuses menores/Jacy]]
+![[Divindades de Araquara/Deuses menores/Jacy]]
 ![[Ibirá]]
 ![[Itá]]
 ![[Tataendy]]

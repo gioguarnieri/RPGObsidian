@@ -17,3 +17,5 @@ A escuridão sobe pelo braço de [[Ybane]] lentamente, querendo tomar seu corpo.
 ![[braço corrompido.webp|347x521]]
 
 A mesa termina aí, a próxima deve começar com os jogadores indo investigar essa mão e um terremoto muito forte acontecendo.
+
+A esfera, na verdade, é um ovo de uma entidade de um outro continente. Os ovos são botados durante a primavera, e chocam no fim do outono. É possível que tenham mais espalhados por aí.

@@ -17,7 +17,7 @@
 
 [[Itatambori#Itatiba|Itatiba]] cidade conhecida por sobreviver ao miasma. Vista como uma cidade extremamente resiliente, Itatiba evita receber visitantes, já que uma pandemia parece acontecer lá dentro, e só lá dentro. Vocês nunca viram uma pessoa de Itatiba, mas o rumor é que se virem, melhor sair de perto.
 
-[[Jacy]] é cidade que fica dentro de uma floresta cultivada pelos colonos que saíram de [[Angakuera]]. A cidade se chama assim pois contam que numa noite que devia ser lua nova e foi lua cheia, pois [[Divindades/Deuses menores/Jacy|Jacy, a deusa]] iluminou a lua para ajudar os colonos a encontrarem o caminho durante a noite. [[Desenvolvimento/Cidades/Jacy#Jacymirim|Jacymirim]] é seu porto que conecta ao mundo.
+[[Desenvolvimento/Cidades/Jacy]] é cidade que fica dentro de uma floresta cultivada pelos colonos que saíram de [[Angakuera]]. A cidade se chama assim pois contam que numa noite que devia ser lua nova e foi lua cheia, pois [[Divindades de Araquara/Deuses menores/Jacy|Jacy, a deusa]] iluminou a lua para ajudar os colonos a encontrarem o caminho durante a noite. [[Desenvolvimento/Cidades/Jacy#Jacymirim|Jacymirim]] é seu porto que conecta ao mundo.
 
 [[Nova Valíria]] é uma cidade recente, quando comparamos com as outras. A cidade foi refundada por [[Sauras]], que é um dos [[Grandes Heróis]]. A cidade tem uma cultura própria, com muita simbologia à [[Tataendy]].
 
