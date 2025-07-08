@@ -1,6 +1,6 @@
-é uma **encarnação cósmica da indiferença da natureza**, com sua consciência fragmentada pelas demandas de cada estação. Zikloa representa a vastidão aterrorizante de Amalur (Mãe Terra) e as divindades caóticas do céu. Suas transições são choques cataclísmicos de forças primordiais, distorcendo a própria realidade.
+é uma **encarnação cósmica da indiferença da natureza**, com sua consciência fragmentada pelas demandas de cada estação. Iea representa a vastidão aterrorizante de Amalur (Mãe Terra) e as divindades caóticas do céu. Suas transições são choques cataclísmicos de forças primordiais, distorcendo a própria realidade.
 
-# **Inverno: Negua Zikloa**
+# **Inverno: Negua Iea**
 
 - **Manifestação:** Um palácio glacial colossal e móvel, à deriva no vazio, ou um vórtice de vento de zero absoluto uivando através de planícies congeladas. Sua forma é gelo irregular, neve negra semelhante à obsidiana e a pressão esmagadora do gelo de águas profundas.
 
@@ -9,7 +9,7 @@
 - **Influência:** Provoca congelamentos anormalmente profundos que estilhaçam pedras e metais, cria nevascas que apagam paisagens e memórias, induzindo profundo desespero e apatia nos mortais. A vida não morre; ela fica suspensa em uma quietude perfeita e agonizante. O próprio tempo parece mais lento, mais pesado.
 
 - **Sacrilégio/Adoração:** Rituais envolvem congelamento autoinfligido, preservando criaturas em gelo sobrenatural, buscando o esquecimento através do frio. Profetas loucos sussurram sobre a "beleza" da quietude eterna.
-# **Primavera: Udaberria Zikloa**
+# **Primavera: Udaberria Iea**
 
 - **Manifestação:** Uma explosão grotesca e sinuosa de florestas fúngicas bioluminescentes, flores carnívoras com pétalas afiadas e colmeias fervilhantes de insetos. Sua forma é uma fecundidade avassaladora que deu terrivelmente errado – sacos pulsantes, néctar gotejante que queima, trepadeiras que se movem com velocidade predatória.
 
@@ -19,7 +19,7 @@
 
 - **Sacrilégio/Adoração:** Rituais envolvem mutações forçadas, semeadura de vida monstruosa e danças frenéticas em meio a flores perigosas. Cultistas se tornam jardins vivos de crescimentos parasitários.
 
-# **Verão: Uda Zikloa
+# **Verão: Uda Iea
 
 - **Manifestação:** Um sol ofuscante e multiorbitário que nunca se põe, ou uma figura colossal e ressecada, envolta em névoa de calor e miragens. Sua luz não ilumina; ela _vasculha_. Sua forma é terra rachada, ar cintilante que distorce a realidade e o brilho ofuscante da exposição absoluta.
 
@@ -29,7 +29,7 @@
 
 - **Sacrilégio/Adoração:** Rituais envolvem autoimolação (ou sacrifícios em chamas), olhar para o sol até ficar cego, buscando a "verdade" na loucura do deserto. Cultistas se tornam fanáticos emaciados, queimados pela luz, obcecados pela exposição.
 
-# **Outono: Udazkena Zikloa**
+# **Outono: Udazkena Iea**
 
 - **Manifestação:** Uma vasta floresta decadente de árvores chorando e sangrando sob céus perpetuamente crepusculares, ou um vórtice rodopiante de esporos cor de ferrugem e folhas caídas, carnudas. Sua forma é a podridão úmida, fungos rastejantes, o silêncio perturbador da decadência e o odor adocicado da putrefação.
 
@@ -41,6 +41,6 @@
 
 **As Transições:**
 
-- **Solstícios/Equinócios:** Períodos breves e aterrorizantes em que o aspecto dominante luta contra o que se aproxima. A realidade entra em espasmos: nevascas podem florescer com flores carnívoras; um sol escaldante pode expelir esporos; a decadência pode congelar em meio ao colapso. Estes são tempos de máxima instabilidade e perigo, onde a natureza fragmentada de Zikloa é mais aparente e seu poder vaza caoticamente.
-	- **Primavera-Verão**: No equinócio da primavera, Zikloa se prepara para se procriar. É quando começa a se aninhar e produzir vida, depois de quase um ano preparando o ovo. O solstício de verão é o dia em que os ovos são postos.
-	- **Outono-Inverno**: Durante o equinócio de Outono o ovo começa a apresentar características mágicas. Depois de se alimentar da vida ao redor, que foi ampliada por Zikloa, o ovo passa a tomar nova forma, para finalmente eclodir no solstício de Inverno.
+- **Solstícios/Equinócios:** Períodos breves e aterrorizantes em que o aspecto dominante luta contra o que se aproxima. A realidade entra em espasmos: nevascas podem florescer com flores carnívoras; um sol escaldante pode expelir esporos; a decadência pode congelar em meio ao colapso. Estes são tempos de máxima instabilidade e perigo, onde a natureza fragmentada de Iea é mais aparente e seu poder vaza caoticamente.
+	- **Primavera-Verão**: No equinócio da primavera, Iea se prepara para se procriar. É quando começa a se aninhar e produzir vida, depois de quase um ano preparando o ovo. O solstício de verão é o dia em que os ovos são postos.
+	- **Outono-Inverno**: Durante o equinócio de Outono o ovo começa a apresentar características mágicas. Depois de se alimentar da vida ao redor, que foi ampliada por Iea, o ovo passa a tomar nova forma, para finalmente eclodir no solstício de Inverno.
