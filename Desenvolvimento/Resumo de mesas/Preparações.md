@@ -1,5 +1,5 @@
 
-## Leitura introdução
+## Mesa 1 - Leitura introdução
 
 Um incômodo lateja na sua nuca antes mesmo de você perceber o cartaz. Lá longe, pendurado em uma larga árvore no meio da cidade tem um cartaz escrito "precisa-se de ajuda. Boas recompensas. Procurar por Felipe".
 
@@ -34,7 +34,6 @@ Disso, eu peço um save de destreza DC 17 pra suportar o terremoto, quem tem pro
 
 O terremoto vai deixar a cidade em um frenesi. As pessoas vão estar desesperadas, já que isso nunca aconteceu antes. Alguns vão estar comentando sobre o fim dos tempos, outros discutindo entre si sobre o que fazer. Árvores terão caído causando acidentes, e o rio de Ibiraí transbordou, causando uma inundação na cidade e nas casas que ficam ao seu redor.
 
-Perequê, o xamã que está substituindo o mestre
+## Mesa 3 - O Início da jornada
 
-Jurandir, chefe da universidade
 
