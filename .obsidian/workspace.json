@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento/Resumo de mesas/Mesa 2.md",
+                "file": "Desenvolvimento/Um milênio depois.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mesa 2"
+              "title": "Um milênio depois"
             }
           }
         ]
@@ -178,11 +178,15 @@
   },
   "active": "12fc5ed1c9e9ac91",
   "lastOpenFiles": [
+    "Desenvolvimento/Araquara.md",
+    "Desenvolvimento/Personagens/Eryk Arghelion.md",
+    "Desenvolvimento/Regiões/Cordilheira de Ibitirá.md",
+    "Desenvolvimento/Regiões/Fragmenterras.md",
     "Desenvolvimento/NPCs/Perequê.md",
+    "Desenvolvimento/NPCs/O Anfitrião.md",
+    "Desenvolvimento/NPCs/Apoena.md",
     "Desenvolvimento/Resumo de mesas/Mesa 2.md",
     "Desenvolvimento/Resumo de mesas/Mesa 1.md",
-    "Desenvolvimento/Regiões/Fragmenterras.md",
-    "Desenvolvimento/NPCs/O Anfitrião.md",
     "Desenvolvimento/Resumo de mesas/Preparações.md",
     "Desenvolvimento/NPCs",
     "Divindades de fora/Fragmenterras/Zikloa.md",
@@ -190,7 +194,6 @@
     "Divindades de fora/Fragmenterras",
     "Divindades de fora",
     "Desenvolvimento/Resumo de mesas/Leituras.md",
-    "Desenvolvimento/Araquara.md",
     "Desenvolvimento/Cidades/Conhecimento básico das cidades.md",
     "Itens mágicos/Coração gema.md",
     "Itens mágicos/Braço corrompido.md",
@@ -207,9 +210,7 @@
     "Glossário.md",
     "Werá.md",
     "Desenvolvimento/Resumo de mesas",
-    "Intro/Resumo mesas/Primeira mesa.md",
     "Resumo mesas/Intro/Sem título",
-    "Divindades de Araquara/Angá.md",
     "Resumo mesas/Intro",
     "Imagens/Angá arte.webp",
     "Imagens/Tatendy.webp",
@@ -220,7 +221,6 @@
     "Imagens/Olegario.webp",
     "Imagens/Neru sem Máscara.webp",
     "Imagens/Neru.webp",
-    "Desenvolvimento/Cidades/Itatambori.md",
     "Desenvolvimento/Personagens",
     "Desenvolvimento/Regiões",
     "Desenvolvimento/Cidades"
