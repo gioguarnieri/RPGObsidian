@@ -5,3 +5,7 @@ Disso, eu peço um save de destreza DC 17 pra suportar o terremoto, quem tem pro
 
 O terremoto vai deixar a cidade em um frenesi. As pessoas vão estar desesperadas, já que isso nunca aconteceu antes. Alguns vão estar comentando sobre o fim dos tempos, outros discutindo entre si sobre o que fazer. Árvores terão caído causando acidentes, e o rio de Ibiraí transbordou, causando uma inundação na cidade e nas casas que ficam ao seu redor.
 
+Perequê, o xamã que está substituindo o mestre
+
+Jurandir, chefe da universidade
+
