@@ -1,0 +1,1 @@
+Na verdade é [[Taiguara]] antes de receber as memórias.

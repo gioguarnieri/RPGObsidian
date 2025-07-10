@@ -1,11 +1,22 @@
 
-A mesa deve começar mais tranquila, com os jogadores pensando como pegar a mão amaldiçoada. [[Eryk Arghelion]] pode decifrar o que a mão segura se passar num teste de religião DC 15. Ou tomar um 20, que levaria uma hora estudando sobre a mão em suas anotações.
+A mesa começa com os jogadores se preocupando com [[Ybane]] e estabilizando o pobre coitado. Depois de estabilizar, eles viram a atenção pro [[Braço corrompido]], enquanto [[Yapo]] se preocupa em entender a água dali e recolhe um pouco de terra do leito do rio. [[Tupã-Ramé]] tem a ideia de colocar o braço numa trouxinha para carregar, e pega [[Ybane]] no ombro para levá-lo, [[Yapo]] carrega o braço.
 
-Disso, eu peço um save de destreza DC 17 pra suportar o terremoto, quem tem proficiência em Natureza ganha vantagem, e se tiver em sobrevivência ganha +2 na rolagem.
+Um pouco depois de se arrumarem para voltar à [[Ibiratuba]] um terremoto os atinge. [[Yapo]] percebe que algo está acontecendo e consegue se prevenir do terremoto, os outros todos caem no chão. Voltando à cidade, eles encontram um cenário caótico de pessoas que foram afetadas pelo terremoto. Pessoas em frenesi, escombros, árvores caídas, e muita gente machucada. Eles se direcionam até a ala hospitalar improvisada, e lá encontram uma outra pessoa no lugar do médico que os atendeu antes. Deixam [[Ybane]] lá pra ser cuidado e seguem para falar com Pedro, que os indica Jurandir, o reitor.
 
-O terremoto vai deixar a cidade em um frenesi. As pessoas vão estar desesperadas, já que isso nunca aconteceu antes. Alguns vão estar comentando sobre o fim dos tempos, outros discutindo entre si sobre o que fazer. Árvores terão caído causando acidentes, e o rio de Ibiraí transbordou, causando uma inundação na cidade e nas casas que ficam ao seu redor.
+Jurandir os recompensa com 50 peças de ouro cada como pagamento por resolver o problema, mas não consegue ajudá-los nas outras causas, e nem sabe explicar o terremoto. Também comenta sobre uma expedição de pessoas de [[Fragmenterras]], que interessa a [[Eryk Arghelion]]. Disso, eles vão a [[Perequê]], o xamã mestre interino que substitui (mestre de Inawa), que anda desaparecido. Lá, mostram a [[Perequê]] a orbe e contam a história da luta.
 
-Perequê, o xamã que está substituindo o mestre
+[[Perequê]] levanta o questionamento sobre o javali que eles lutaram, se essa orbe é tão poderosa assim, como aquele javali a sobreviveu? Os jogadores também ficam curiosos sobre isso. [[Inawa]] propõe de investigar os rastros do javali, [[Perequê]] parece focado em entender o que está acontecendo, começa a procurar em seus registros algo que pode fazer sentido enquanto os jogadores discutem. No meio da conversa, [[Eryk Arghelion]] percebe que o que eles carregam é um ovo, deixado por [[Iea]], a divindade que domina a sua região.
 
-Jurandir, chefe da universidade
+[[Yapo]] se distrai, sai andando pela cidade para tentar encontrar Felipe, e acaba sendo encontrada por... alguém. Uma casa no meio do nada, que pareceu guiar a garota até lá. Ela se interessa, bate na porta e é atendida por uma pessoa que não é muito gentil, dizendo que é pra garota voltar com os outros, por não querer ficar se repetindo. [[Yapo]] insiste, porém é jogada pra longe por uma lufada de vento.
 
+Rapidamente ela volta em direção ao grupo, encontra com eles e os leva até a casa. [[Yapo]] percebe que a direção tomada é diferente, os lugares em volta mudam, mas a casa está lá também. Como se quisesse ser encontrada. Agora sim, aquele alguém recebe as pessoas e os deixa entrar na casa.
+
+Muito maior por dentro do que por fora, a casa parece abrigar várias pessoas, e está ligeiramente bagunçada. [[O Anfitrião]] desconhecido só lhes pede duas coisas, **não falem nomes de pessoas**, e entregar os papéis que foram retirados antes. Eles entregam, não falam os seus nomes e também não perguntam o do anfitrião.
+
+Lá, eles fazem várias perguntas que não podem ser respondidas. O anfitrião diz que estão sendo ouvidos e o máximo que pode fazer é pedir a eles uma missão: Ir até [[Tapera Maíra]]. Disso, se inicia uma discussão sobre o quão seguro é fazer isso. E [[O Anfitrião]] os garante a segurança, os dando um sino em formato de lua.
+
+Os jogadores ainda estão contra a ideia, pois entendem que ir àquela região pode ser mortal. [[O Anfitrião]] conta a [[Tupã-Ramé]] que o epicentro do terremoto foi em [[Itatambori#Itatiba]], que o terremoto rompeu as barreiras de proteção contra o miasma, mas que as pessoas estão bem e evacuando em direção de [[Itatambori]]. 
+
+[[Yapo]] é quem ainda resiste a ideia de ir para aquela direção, pois ainda não vê sentido e não gosta da falta de explicação. Faz uma conversa rápida com [[O Anfitrião]] que lhe promete duas coisas: Guardar o [[Braço corrompido]] e responder todas suas perguntas num próximo encontro. [[Yapo]] se dá por satisfeita, porém o grupo decide ficar com o [[Braço corrompido]], pois [[O Anfitrião]] se mostrou muito interessado naquilo, estranhamente interessado, pois disse que aquilo calava a voz das outras pessoas que não pareciam estar ali.
+
+Um pouco antes de sair [[O Anfitrião]] os entrega um braço de madeira, para ajudar [[Ybane]]. Todos partem em direção da Pousada das Gaivotas, que foi indicada por Jurandir.
