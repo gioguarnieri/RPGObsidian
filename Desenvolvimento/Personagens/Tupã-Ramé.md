@@ -2,7 +2,7 @@ Foi enviado na missão de vida de [[Itatambori#Itatiba]], onde se distraiu com u
 
 Em choque, Ramé fugiu do campo de batalha em direção do único lugar que sabia que poderia receber amparo, [[Aguape]].
 
-
+Mbae Tesa'y - nome da doença
 
 Ara - Filhos de Angá
 Tupã - Filhos de Kuara Pyatã
