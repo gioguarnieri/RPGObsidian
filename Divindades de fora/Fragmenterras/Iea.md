@@ -44,3 +44,6 @@
 - **Solstícios/Equinócios:** Períodos breves e aterrorizantes em que o aspecto dominante luta contra o que se aproxima. A realidade entra em espasmos: nevascas podem florescer com flores carnívoras; um sol escaldante pode expelir esporos; a decadência pode congelar em meio ao colapso. Estes são tempos de máxima instabilidade e perigo, onde a natureza fragmentada de Iea é mais aparente e seu poder vaza caoticamente.
 	- **Primavera-Verão**: No equinócio da primavera, Iea se prepara para se procriar. É quando começa a se aninhar e produzir vida, depois de quase um ano preparando o ovo. O solstício de verão é o dia em que os ovos são postos.
 	- **Outono-Inverno**: Durante o equinócio de Outono o ovo começa a apresentar características mágicas. Depois de se alimentar da vida ao redor, que foi ampliada por Iea, o ovo passa a tomar nova forma, para finalmente eclodir no solstício de Inverno.
+
+
+![[Iea.webp]]![[broche.webp]]

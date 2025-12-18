@@ -5,7 +5,7 @@ No Norte, onde antes as árvores dançavam com as nuvens, a terra engoliu suas p
 
 Do coração daquela ruína, ergueu-se **aquilo que não se nomeia**. Um sopro espesso, que derrete pedras como cera de abelha em sol quente e transforma palavras em armadilhas. Os poucos que escaparam do Norte juraram selar os lábios, pois até o eco de suas histórias alimentava a fome do invisível.
 
-## **Quatrocentas e dezenove estações se passaram.**  
+## **Quatrocentas e dezenove anos se passaram.**  
 A ilha aprendeu a viver de meias verdades. Ao Sul, flores nascem onde antes só havia cicatrizes, e crianças correm entre trilhas que imitam os desenhos das constelações. Os que vieram das terras pantanosas trouxeram consigo saberes esquecidos: agora, **aqueles marcados pelas estrelas** guiam o povo, ensinando a ler o tempo nas veias das folhas e no ritmo das marés.
 
 Mas o Norte permanece — um vazio que sussurra. Alguns juram que, nas noites sem lua, ouvem o **rugido do que foi perdido** ecoando além das montanhas calcinadas. Outros veem formas na névoa, como se o próprio ar tentasse se lembrar de ser vida.
