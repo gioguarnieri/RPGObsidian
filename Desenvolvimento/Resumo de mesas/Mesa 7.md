@@ -1,0 +1,3 @@
+Depois de encontrar com [[Araeni]], os jogadores buscaram os conselhos d'[[O Anfitrião]], que os havia prometido respostas de suas perguntas. Ele foi solicito, respondeu as perguntas da melhor forma que podia, porém não podia muita coisa. Desta vez não pareciam estar escutando a conversa, mas nomes ainda eram proibidos, e a conversa ainda foi enigmática.
+
+Depois da conversa, O Anfitrião se removeu da sala, dizendo que era a última vez que os jogadores encontravam com ele. Nisso, eles viram a oportunidade de explorar a sala, e descobriram um ave Urutau-grande ali disposta a conversar. A ave falava pouco, mas deu a entender que [[Pytu]] estava por ali.

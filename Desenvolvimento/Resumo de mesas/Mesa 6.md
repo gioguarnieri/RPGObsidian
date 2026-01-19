@@ -3,7 +3,7 @@ Luzes no monolito: verde roxa azul vermelha
 
 Eles liberaram a verde, que continha [[Araeni]]
 
-duas pétalas a menos na flor, formando 3
+duas pétalas a menos na flor, totalizando 3
 
 mostraram a flor pra joana, ela desenhou e ficou devendo uma pra eles
 
@@ -21,6 +21,6 @@ Uma mulher extremamente magra, com cabelos e unhas muito grandes estava no chão
 
 Em conversa, os jogadores descobrem que ela estava presa no monolito já há anos, ela nem sabe exatamente quando. Não tem memória de quando foi pra lá, quem a levou e muito menos o porque estava ali. Lembra de seu nome, Araeni, mas só.
 
-Com o resto de suas forças ela pega o javali nas costas e começa a caminhar, guiando o grupo para fora da área desolada, e os protegendo. Ela só pede uma coisa ao grupo "se eu cair, me levantem imediatamente", o que acontece pouco tempo depois, mas [[Tupã-Ramé]] é ligeiro e a acorda. healing word frança
+Com o resto de suas forças ela pega o javali nas costas e começa a caminhar, guiando o grupo para fora da área desolada, e os protegendo. Ela só pede uma coisa ao grupo "se eu cair, me levantem imediatamente", o que acontece pouco tempo depois, mas [[Tupã-Ramé]] é ligeiro e a acorda, com a ajuda de um healing word de [[Eryk Arghelion]].
 
 Eles andam por muito tempo, mas não se cansam, chegando finalmente fora da área desolada. Onde Araeni começa a se recuperar e rejuvenescer. 
