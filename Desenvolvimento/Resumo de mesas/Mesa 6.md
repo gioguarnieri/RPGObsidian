@@ -13,7 +13,7 @@ A mesa começou com os jogadores entrando por uma fenda numa árvore muito grand
 
 O primeiro plano foi de tocar o sino, e imediatamente isso chamou a atenção do javali, fazendo-o parar de bater a cabeça. Se aproximaram, olhando atentamente para o javali, tentando entender sua intenção, se seria agressivo ou só os observava.
 
-Ele não se mexia, só bufava. O ar saía quente de suas narinas e empurrava levemente para trás [[Yapo]], que se aproximava. Surge no monolito um espaço que parece chamar pelo sino, incerta, Yapo coloca o sino no monolito e o vê sendo absorvido. Alguns segundos depois, todos escutam um barulho.
+Ele não se mexia, só bufava. O ar saía quente de suas narinas e empurrava levemente para trás Yapo, que se aproximava. Surge no monolito um espaço que parece chamar pelo sino, incerta, Yapo coloca o sino no monolito e o vê sendo absorvido. Alguns segundos depois, todos escutam um barulho.
 
 Um corpo caiu do céu.
 

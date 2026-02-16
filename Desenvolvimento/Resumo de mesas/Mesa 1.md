@@ -27,7 +27,7 @@ Elas agora se apresentam: (apresentação dos jogadores)
 
 Depois disso tudo, os jogadores devem partir em conjunto buscando por Felipe. Vão passar um tempo interagindo com a cidade, e então vou direcioná-los à falar com o Pedro, um aluno de biologia da universidade de [[Ibiratuba]]. Pedro não soube ajudá-los, mas falou que estão precisando de ajuda por ali. A missão vai ser investigar o que causou um envenenamento estranho no poço de água de um dos bairros da cidade, adoecendo muita gente, e depois de fechado, fez com que as pessoas andem muito mais pra conseguir sua água, um grande empecilho.
 
-Disso, eles foram até a ala médica e conheceram o Dr. Cox, que estava extremamente estressado por estar atendendo aquelas pessoas há muito tempo, sem comer e descansar. [[Yapo]] o serviu com uma torta de maçã que fez ali rapidinho, enquanto o resto do grupo tentava entender melhor o que houve com a água. Com um teste bem sucedido conseguem ver que não é um envenenamento do corpo, apesar de ter todos os sintomas.
+Disso, eles foram até a ala médica e conheceram o Dr. Cox, que estava extremamente estressado por estar atendendo aquelas pessoas há muito tempo, sem comer e descansar. [[Acantha]] o serviu com uma torta de maçã que fez ali rapidinho, enquanto o resto do grupo tentava entender melhor o que houve com a água. Com um teste bem sucedido conseguem ver que não é um envenenamento do corpo, apesar de ter todos os sintomas.
 
 No fim da investigação, eles vão perceber que há um Javali corrompido que fica se banhando na água que alimenta o poço. O javali parece desesperado, talvez nem devesse estar ali, mas tenta limpar sua corrupção com a água a todo custo.
 
