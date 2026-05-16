@@ -3,6 +3,7 @@ Foi enviado na missão de vida de [[Itatambori#Itatiba]], onde se distraiu com u
 Em choque, Ramé fugiu do campo de batalha em direção do único lugar que sabia que poderia receber amparo, [[Aguape]].
 
 Mbae Tesa'y - nome da doença
+A doença é causada por uma ingestão baixa do [[Miasma]]. Os chefes sabiam que isso iria ocorrer, mas a proteção da cidade era movida a força vital das pessoas que moravam ali, então não podiam sair da cidade
 
 Ara - Filhos de Angá
 Tupã - Filhos de Kuara Pyatã

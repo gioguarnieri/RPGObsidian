@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desenvolvimento/Personagens/Inawa.md",
+                "file": "Divindades de fora/Fragmenterras/Corruptelas/Miasma.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inawa"
+              "title": "Miasma"
             }
           }
         ],
@@ -59,7 +59,7 @@
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de ficheiros"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 469.5
+    "width": 200
   },
   "right": {
     "id": "bc3e2ae148af059b",
@@ -196,44 +196,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Criar novo Canvas": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
-      "switcher:Abrir Quick Switcher": false,
-      "graph:Abrir Visualização de diagrama de grafo": false,
-      "daily-notes:Abrir nota de hoje": false,
-      "templates:Inserir templates": false,
-      "command-palette:Abrir paleta de comando": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b20d66ff4710501e",
+  "active": "bf51b61758566f51",
   "lastOpenFiles": [
+    "Divindades de fora/Fragmenterras/Iea.md",
+    "Divindades de fora/Fragmenterras/Corruptelas/Corruptela.md",
+    "Divindades de fora/Fragmenterras/Corruptelas/Miasma.md",
+    "Desenvolvimento/Um milênio depois.md",
+    "Intro/NPCs/Principais/Bagé.md",
+    "Desenvolvimento/Regiões/Tataitá.md",
+    "Desenvolvimento/Regiões/Tapera Maíra.md",
+    "Divindades de fora/Fragmenterras/Corruptelas",
+    "Divindades de fora/Fragmenterras/Sem título.md",
+    "Mitos e lendas/Lendas/Cuca.md",
+    "Desenvolvimento/Personagens/Inawa.md",
+    "Desenvolvimento/Personagens/Tupã-Ramé.md",
+    "Desenvolvimento/Personagens/Eryk Arghelion.md",
+    "Desenvolvimento/Personagens/Acantha.md",
+    "Desenvolvimento/Resumo de mesas/Resumos.md",
+    "Desenvolvimento/Resumo de mesas/Mesa 11.md",
+    "Desenvolvimento/Resumo de mesas/Mesa 9.md",
+    "Desenvolvimento/Resumo de mesas/Mesa 8.md",
+    "Desenvolvimento/Resumo de mesas/Mesa 10.md",
+    "Desenvolvimento/Resumo de mesas/Mesa 12.md",
     "Itens mágicos/Braço corrompido.md",
     "README.md",
     "Glossário.md",
-    "Desenvolvimento/Resumo de mesas/Mesa 12.md",
     "Divindades de Araquara/Angá.md",
     "Divindades de Araquara/Deuses Menores do Panteão.md",
     "Divindades de Araquara/Kuara Pyatã.md",
     "Divindades de Araquara/Deuses menores/Pytu.md",
-    "Divindades de Araquara/Deuses menores/Tataendy.md",
-    "Divindades de Araquara/Deuses menores/Yberá-Tá.md",
-    "Divindades de Araquara/Deuses menores/Yvytu.md",
-    "Desenvolvimento/Araquara.md",
-    "Desenvolvimento/Um milênio depois.md",
-    "Divindades de fora/Fragmenterras/Iea.md",
-    "Mitos e lendas/A cosmologia da ilha de Araquara.md",
-    "Intro/Cidades/Cidade de Angá.md",
-    "Intro/Araquara, introdução.md",
-    "Intro/Resumo mesas/Quinta mesa.md",
-    "Intro/Resumo mesas/Quarta mesa.md",
-    "Intro/Resumo mesas/Primeira mesa.md",
-    "Desenvolvimento/Resumo de mesas/Mesa 6.md",
-    "Desenvolvimento/Resumo de mesas/Mesa 7.md",
-    "Desenvolvimento/Resumo de mesas/Mesa 8.md",
-    "Desenvolvimento/Resumo de mesas/Mesa 9.md",
-    "Desenvolvimento/Resumo de mesas/Mesa 10.md",
-    "Desenvolvimento/Resumo de mesas/Mesa 11.md",
     "Imagens/broche.webp",
     "Imagens/Iea.webp",
     "Desenvolvimento/NPCs",
@@ -252,7 +253,6 @@
     "Imagens/Pessoa de Lahn.webp",
     "Imagens/Olegario.webp",
     "Desenvolvimento/Personagens",
-    "Desenvolvimento/Regiões",
-    "Desenvolvimento/Cidades"
+    "Desenvolvimento/Regiões"
   ]
 }

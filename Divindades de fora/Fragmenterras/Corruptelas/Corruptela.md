@@ -1,0 +1,1 @@
+Seres nascidos de ovos de [[Iea]]. Criaturas com identidades únicas que se relacionam com fenômenos naturais e biomas em específico.
