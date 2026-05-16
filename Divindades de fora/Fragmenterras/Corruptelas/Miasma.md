@@ -61,4 +61,4 @@ Utilizei os incensos acinzentados que trouxe das ruínas ocidentais e entoei os 
 
 A comunhão estabeleceu um canal direto. Através do abismo negro da esfera, fiz o primeiro contato. Uma inteligência primeva espiou de volta. Uma criatura colossal, vasta e feita da mesma ausência de luz, roçou a beira da minha consciência. O zumbido virou uma voz. Ela sentiu o gosto da nossa magia através de mim. Ela sabe onde este mundo es...
 
-_(A escrita é subitamente interrompida por um rasgo agressivo no pergaminho, com um longo traço de tinta preta manchando o resto da página até o final do livro)_
+_(A escrita ilusória é subitamente interrompida)_
